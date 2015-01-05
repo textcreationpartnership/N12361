@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:015603_0000_0F99D44B8F7DB2C0"/>
-            <pb facs="tcp:015603_0001_0F99D4202B3BF670"/>
+            <pb facs="unknown:015603_0000_0F99D44B8F7DB2C0"/>
+            <pb facs="unknown:015603_0001_0F99D4202B3BF670"/>
             <p>SONGS, COMIC, SATYRICAL, AND <hi>SENTIMENTAL.</hi> BY GEORGE ALEXANDER STEVENS.</p>
             <q>
                <p>I love <hi>FUN!</hi>—Keep it up!</p>
@@ -127,8 +127,9 @@
                <hi>PHILADELPHIA:</hi> PRINTED BY R. BELL, THIRD-STREET. M.DCC.LXXVIII.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:015603_0002_0F99D42963159CF8" rendition="simple:additions"/>
-            <pb facs="tcp:015603_0003_0F99D42ABAF1DBE8"/>
+            <pb facs="unknown:015603_0002_0F99D42963159CF8"
+                rendition="simple:additions"/>
+            <pb facs="unknown:015603_0003_0F99D42ABAF1DBE8"/>
             <head>Advertiſement.</head>
             <p>THE Writer of theſe Ballads, by way of Pre<g ref="char:EOLhyphen"/>face, begs leave to introduce a <hi>Fragment,</hi> which he happily met with among the MSS preſerved in that ineſtimable receptacle of Curioſities at <hi>Chelſea,</hi> well known to the <hi>Literati</hi> of all Nations, under the deno<g ref="char:EOLhyphen"/>mination of DON SALTERO'S COFFEE-HOUSE.</p>
             <p>This Fragment indeed bears no marks of Antiqui<g ref="char:EOLhyphen"/>ty; yet the origin as well as progreſs of MUSIC and POETRY is here traced with uncommon perſpicuity; and it is greatly to be lamented that the Author him<g ref="char:EOLhyphen"/>ſelf could not be conſulted, for putting the finiſhing hand to ſo arduous and elaborate an undertaking.</p>
@@ -136,7 +137,7 @@
       </front>
       <body>
          <div type="history_of_singing">
-            <pb facs="tcp:015603_0004_0F99D42B6DD46C00"/>
+            <pb facs="unknown:015603_0004_0F99D42B6DD46C00"/>
             <head>THE HISTORY OF CHOICE SPIRITS AND BALLAD-SINGING.</head>
             <p>JUBAL, or TUBAL CAIN, was the firſt compoſ<g ref="char:EOLhyphen"/>er of Tunes; his Lyre preceded <hi>Orion's, Amphion's,</hi> and even the <hi>Harp</hi> of <hi>Orpheus.</hi>
             </p>
@@ -147,11 +148,11 @@
             <p>ORPHEUS, to pleaſe his <hi>Eurydice,</hi> exhibited the firſt <hi>Harmonic Meeting.</hi>
             </p>
             <p>
-               <pb n="5" facs="tcp:015603_0005_0F99D42C287BF7C8"/>And on the mountain <hi>Gibello,</hi> CIRCE held her firſt Court for COMUS. The Magazines of the Ancients, thoſe moſt uſeful repoſitories of ready-made erudition tell us, that BACCHUS inſtituted a Club at this very period, called the <hi>Baccae</hi> or <hi>Bacchantes,</hi> and which are now called the BUCKS; as it appears, not only by <hi>Nim<g ref="char:EOLhyphen"/>rod</hi>'s ancient Charter depoſited in the Archives of the <hi>Babylonian</hi> Lodge in the environs of <hi>Soho,</hi> but alſo by the authenticated Records belonging to the <hi>Pewter Platter</hi> in <hi>Biſhopgate-precinct.</hi>
+               <pb n="5" facs="unknown:015603_0005_0F99D42C287BF7C8"/>And on the mountain <hi>Gibello,</hi> CIRCE held her firſt Court for COMUS. The Magazines of the Ancients, thoſe moſt uſeful repoſitories of ready-made erudition tell us, that BACCHUS inſtituted a Club at this very period, called the <hi>Baccae</hi> or <hi>Bacchantes,</hi> and which are now called the BUCKS; as it appears, not only by <hi>Nim<g ref="char:EOLhyphen"/>rod</hi>'s ancient Charter depoſited in the Archives of the <hi>Babylonian</hi> Lodge in the environs of <hi>Soho,</hi> but alſo by the authenticated Records belonging to the <hi>Pewter Platter</hi> in <hi>Biſhopgate-precinct.</hi>
             </p>
             <p>And to theſe two Bodies of that Noble and Ancient Order, the following Deſcription of the famous GOB<g ref="char:EOLhyphen"/>LET, or CUP uſed by the GRAND BUCK at <hi>Rome,</hi> when he celebrated the <hi>Secular Games,</hi> is here addreſ<g ref="char:EOLhyphen"/>ſed, with its original Inſcription, and a Tranſlation, for the mutual entertainment of thoſe diſtinct Claſſes of <hi>Critics,</hi> the LEARNED and UNLEARNED, who al<g ref="char:EOLhyphen"/>ternately take the lead in all Converſations.</p>
             <q>
-               <pb facs="tcp:015603_0006_0F99D430133AF940"/>
+               <pb facs="unknown:015603_0006_0F99D430133AF940"/>
                <floatingText xml:lang="lat">
                   <body>
                      <div type="inscription">
@@ -178,21 +179,21 @@
                </floatingText>
             </q>
             <p>
-               <pb n="7" facs="tcp:015603_0007_0F99D4331C6E0F98"/>The reaſon for introducing this <hi>Antique</hi> unto the Reader's acquaintance is, according to the modern cuſtom of Book-making, to ſhew the <hi>Author</hi>'s ERU<g ref="char:EOLhyphen"/>DITION; which is ſtill farther diſplayed in the fol<g ref="char:EOLhyphen"/>lowing account of CHOICE SPIRITS.</p>
+               <pb n="7" facs="unknown:015603_0007_0F99D4331C6E0F98"/>The reaſon for introducing this <hi>Antique</hi> unto the Reader's acquaintance is, according to the modern cuſtom of Book-making, to ſhew the <hi>Author</hi>'s ERU<g ref="char:EOLhyphen"/>DITION; which is ſtill farther diſplayed in the fol<g ref="char:EOLhyphen"/>lowing account of CHOICE SPIRITS.</p>
             <p>After <hi>Circe</hi>'s elopment with <hi>Ulyſſes,</hi> they became wanderers upon the Face of the Earth, and like <hi>Jews,</hi> and <hi>Strolling-players,</hi> continue <hi>Itinerants</hi> even unto this day; they have nevertheleſs multiplied exceeding<g ref="char:EOLhyphen"/>ly, propagating their Convivialities into the different <hi>Orders</hi> of <hi>Grigs, Gregs,</hi> and <hi>Gregorians;—Antigallicans, Free-Maſons,</hi> and <hi>Macaroni;—Sons</hi> of <hi>Sound Senſe</hi> and <hi>Satisfaction;—Sons</hi> of <hi>Kit,</hi> and <hi>Old Souls;—True Blues, Purples,</hi> and <hi>Albions;</hi>—The <hi>Beef Steak, Jockey,</hi> and <hi>Catch Clubs;</hi>—The <hi>Magdalens,</hi> and <hi>Lumber Troop,</hi> with many Others; all which acknowledge the Af<g ref="char:EOLhyphen"/>finity they bear to their paternal Society, by celebrat<g ref="char:EOLhyphen"/>ing their Evening Myſteries with a <hi>Song</hi> and a <hi>Senti<g ref="char:EOLhyphen"/>ment.</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:015603_0008_0F99D43494954D68"/>The CHOICE SPIRITS have ever been famous for their Talents as Muſical Artiſts. They uſuall met at the harveſt-homes of Grape-gathering: There ex<g ref="char:EOLhyphen"/>hilerated by the preſſings of the Vintage, they were wont to ſing Songs, tell Stories, and ſhew Tricks, from their firſt emerging, until their Perihelion under the Preſidentſhip of Mr. GEORGE ALEXANDER STEVENS, <hi>Ballad-Laureat</hi> to the Society of <hi>Choice Spirits,</hi> and who appeared at Ranelagh in the Charac<g ref="char:EOLhyphen"/>ter of COMUS, ſupported by thoſe Droles of merry Memory.</p>
+               <pb n="8" facs="unknown:015603_0008_0F99D43494954D68"/>The CHOICE SPIRITS have ever been famous for their Talents as Muſical Artiſts. They uſuall met at the harveſt-homes of Grape-gathering: There ex<g ref="char:EOLhyphen"/>hilerated by the preſſings of the Vintage, they were wont to ſing Songs, tell Stories, and ſhew Tricks, from their firſt emerging, until their Perihelion under the Preſidentſhip of Mr. GEORGE ALEXANDER STEVENS, <hi>Ballad-Laureat</hi> to the Society of <hi>Choice Spirits,</hi> and who appeared at Ranelagh in the Charac<g ref="char:EOLhyphen"/>ter of COMUS, ſupported by thoſe Droles of merry Memory.</p>
             <p>Unparalleled were their performances, as <hi>firſt Fiſts</hi> upon the <hi>Salt-Box,</hi> and inimitable the variations they would twang upon the <hi>forte</hi> and <hi>piano Jews-Harp.</hi> Excellent was <hi>Howard</hi> in the <hi>Chin Concerto;</hi> whoſe Noſe alſo ſupplied the melodious Tones of the <hi>Bag<g ref="char:EOLhyphen"/>pipe.</hi> —Upon the <hi>Sticcado Matt. Skeggs</hi> remains ſtill unrivalled.—And we cannot now boaſt of one real Genius upon the genuine <hi>Hurdy Gurdy.</hi>
             </p>
             <p>
-               <pb n="9" facs="tcp:015603_0009_0F99D43529041388"/>Alas! theſe Stars are all extinguiſhed; and the remains of ancient Britiſh Harmony is now confined to the manly Muſic of <hi>Marrow-Bones</hi> and <hi>Cleavers.</hi>
+               <pb n="9" facs="unknown:015603_0009_0F99D43529041388"/>Alas! theſe Stars are all extinguiſhed; and the remains of ancient Britiſh Harmony is now confined to the manly Muſic of <hi>Marrow-Bones</hi> and <hi>Cleavers.</hi>
             </p>
             <p>Every thing muſt ſink into Oblivion;—<hi>"Corn now grows where Troy Town ſtood."—Ranelagh</hi> may be me<g ref="char:EOLhyphen"/>tamorphoſed into a <hi>Methodiſt's Meeting-Houſe! Vaux<g ref="char:EOLhyphen"/>hall</hi> cut into <hi>Skittle-Alleys!</hi> the two Theatres convert<g ref="char:EOLhyphen"/>ed into <hi>Auction-Rooms;</hi> and the <hi>New Pantheon</hi> become the ſtately Habitation of ſome Jew Pawn-Broker;— Nay, the SONS OF LIBERTY themſelves * * * * * * * * * * * * * * * * * * * * * * * * * * * * *.</p>
             <trailer>Caetera deſunt.</trailer>
          </div>
          <div type="prologue">
-            <pb facs="tcp:015603_0010_0F99D435E8D114D8"/>
+            <pb facs="unknown:015603_0010_0F99D435E8D114D8"/>
             <head>PROLOGUE TO <hi>STEVENS's</hi> SONGS.</head>
             <lg>
                <l>THROUGH gloomy Grove along the Lawn,</l>
@@ -219,7 +220,7 @@
                <l>A liſt of Giant Crimes.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:015603_0011_0F99D43721E5BC00"/>
+               <pb n="12" facs="unknown:015603_0011_0F99D43721E5BC00"/>
                <l>Already mark;—<hi>Sir Cynic</hi> ſcowls,</l>
                <l>Rage wrinkling on his brow,</l>
                <l>To ſee, O ſhame! two am'rous Owls,</l>
@@ -252,7 +253,7 @@
             </lg>
          </div>
          <div type="songs">
-            <pb facs="tcp:015603_0012_0F99D438AA5576A0"/>
+            <pb facs="unknown:015603_0012_0F99D438AA5576A0"/>
             <head>
                <hi>STEVENS's</hi> SONGS, COMIC, AND SATYRICAL.</head>
             <div n="1" type="song">
@@ -273,7 +274,7 @@
                   <l>And uproar embroil'd the loud fray.</l>
                </lg>
                <lg n="3">
-                  <pb n="2" facs="tcp:015603_0013_0F99D438E935C630"/>
+                  <pb n="2" facs="unknown:015603_0013_0F99D438E935C630"/>
                   <head>III.</head>
                   <l>On ev'ry Olympic the humouriſt droll'd,</l>
                   <l>So none could his jokes diſapprove;</l>
@@ -316,7 +317,7 @@
                   <l>As round Terra Nova they danc'd.</l>
                </lg>
                <lg n="9">
-                  <pb n="3" facs="tcp:015603_0014_0F99D43C59A162D8"/>
+                  <pb n="3" facs="unknown:015603_0014_0F99D43C59A162D8"/>
                   <head>IX.</head>
                   <l>E'en Jove himſelf cou'd not inſenſible ſtand,</l>
                   <l>Bid Saturn his girdle faſt bind,</l>
@@ -359,7 +360,7 @@
                   <l>And on Britons beſtow'd Common-Senſe.</l>
                </lg>
                <lg n="15">
-                  <pb n="4" facs="tcp:015603_0015_0F99D43D84ACBB48"/>
+                  <pb n="4" facs="unknown:015603_0015_0F99D43D84ACBB48"/>
                   <head>XV.</head>
                   <l>Four Cardinal Virtues ſhe left in this iſle,</l>
                   <l>As guardians to cheriſh the root;</l>
@@ -392,7 +393,7 @@
                   <l>And petition'd the Gods, that his ſuit they'd approve.</l>
                </lg>
                <lg n="3">
-                  <pb n="5" facs="tcp:015603_0016_0F99D43EAC8B6D58"/>
+                  <pb n="5" facs="unknown:015603_0016_0F99D43EAC8B6D58"/>
                   <head>III.</head>
                   <l>Quoth Jupiter, I'll make it <hi>King</hi> of the <hi>Sea:</hi>
                   </l>
@@ -440,7 +441,7 @@
                   <l>You're a ſtrumpet, you ſlut, and that I know and you know.</l>
                </lg>
                <lg n="9">
-                  <pb n="6" facs="tcp:015603_0017_0F99D43EEA0412B0"/>
+                  <pb n="6" facs="unknown:015603_0017_0F99D43EEA0412B0"/>
                   <head>IX.</head>
                   <l>Then turning to Jove, who look'd pale, ſhe began,—</l>
                   <l>I'll ſpoil your Olympical gift-giving plan:</l>
@@ -476,7 +477,7 @@
                   <l>Scarlet poppies he ſaw down the long furrows ſtand,</l>
                   <l>Like ſoldiers, in lines on the plain.</l>
                   <l>
-                     <pb n="7" facs="tcp:015603_0018_0F99D43FA94CF3C8"/>Quoth he, though in Learning I am not well ſkill'd,</l>
+                     <pb n="7" facs="unknown:015603_0018_0F99D43FA94CF3C8"/>Quoth he, though in Learning I am not well ſkill'd,</l>
                   <l>In me m'ry this maxim I'll keep,</l>
                   <l>Thoſe weeds among wheat, ſhew when belly is fill'd</l>
                   <l>We have nothing to do but to ſleep.</l>
@@ -517,7 +518,7 @@
                   <l>A <hi>Milkſop</hi>'s the <hi>thing</hi> we deſpiſe.</l>
                </lg>
                <lg n="5">
-                  <pb n="8" facs="tcp:015603_0019_0F99D4408638C9E8"/>
+                  <pb n="8" facs="unknown:015603_0019_0F99D4408638C9E8"/>
                   <head>V.</head>
                   <l>
                      <hi>The Elixer of Love</hi> in our full bottles view,</l>
@@ -560,7 +561,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="9" facs="tcp:015603_0020_0F99D44659D6DE40"/>
+                  <pb n="9" facs="unknown:015603_0020_0F99D44659D6DE40"/>
                   <head>IV.</head>
                   <l>"Inſane oſtentations, who brag of their births,</l>
                   <l>"Yet are but Machines, mix'd of aggregate earths.</l>
@@ -608,7 +609,7 @@
                   <l>Take wing for a while,—then deſcend to a Worm.</l>
                </lg>
                <lg n="10">
-                  <pb n="10" facs="tcp:015603_0021_0F99D44A56B297B8"/>
+                  <pb n="10" facs="unknown:015603_0021_0F99D44A56B297B8"/>
                   <head>X.</head>
                   <l>
                      <hi>Dan Pope</hi> declares all human Race to be <hi>Worms;</hi>
@@ -646,7 +647,7 @@
                   <l>"You preſume I can gueſs at the place,"</l>
                </lg>
                <lg n="4">
-                  <pb n="11" facs="tcp:015603_0022_0F99D44BE764BF50"/>
+                  <pb n="11" facs="unknown:015603_0022_0F99D44BE764BF50"/>
                   <head>IV.</head>
                   <l>I anſwer'd, but firſt for my fee took a kiſs,</l>
                   <l>" Where the Temple of Love we attend,</l>
@@ -691,7 +692,7 @@
                   <l>'Tis the worſt thing a Lady can do.</l>
                </lg>
                <lg n="10">
-                  <pb n="12" facs="tcp:015603_0023_0F99D44C72701818"/>
+                  <pb n="12" facs="unknown:015603_0023_0F99D44C72701818"/>
                   <head>X.</head>
                   <l>Here's to Beauty a Toaſt, ſir, but not Face alone,</l>
                   <l>Lower yet lies the Circle of Grace;</l>
@@ -729,7 +730,7 @@
                   <l>A ſtrong line he wanted to ring his Bar Bell.</l>
                </lg>
                <lg n="3">
-                  <pb n="13" facs="tcp:015603_0024_0F99D44D32DA0548"/>
+                  <pb n="13" facs="unknown:015603_0024_0F99D44D32DA0548"/>
                   <head>III.</head>
                   <l>Love's Arrows were Cane, he divided the joints,</l>
                   <l>Pipe-ſtoppers the ends made, and Pick-teeth the points.</l>
@@ -788,7 +789,7 @@
                </lg>
             </div>
             <div n="7" type="song">
-               <pb n="14" facs="tcp:015603_0025_0F99D44DF23706B8"/>
+               <pb n="14" facs="unknown:015603_0025_0F99D44DF23706B8"/>
                <head>SONG VII. THE DIVORCE.</head>
                <opener>Tune, <hi>Old women we are, and as wiſe in the chair.</hi>
                </opener>
@@ -831,7 +832,7 @@
                   <l>Foreign Vice has diſabled the Spouſe.</l>
                </lg>
                <lg n="6">
-                  <pb n="15" facs="tcp:015603_0026_0F99D44ED4996448"/>
+                  <pb n="15" facs="unknown:015603_0026_0F99D44ED4996448"/>
                   <head>VI.</head>
                   <l>In defence of the Fair, Satire openly ſtands,</l>
                   <l>And forbids the vague Spendthrifts to roam;</l>
@@ -870,7 +871,7 @@
                </lg>
             </div>
             <div n="8" type="song">
-               <pb n="16" facs="tcp:015603_0027_0F99D4548B7ACC08"/>
+               <pb n="16" facs="unknown:015603_0027_0F99D4548B7ACC08"/>
                <head>SONG VIII. NUNC EST BIBENDUM.</head>
                <opener>Tune,—<hi>Maggy Lauder.</hi>
                </opener>
@@ -910,7 +911,7 @@
                   <l>A Vacuum ſoon we find, ſir.</l>
                </lg>
                <lg n="4">
-                  <pb n="17" facs="tcp:015603_0028_0F99D45508936388"/>
+                  <pb n="17" facs="unknown:015603_0028_0F99D45508936388"/>
                   <head>IV.</head>
                   <l>
                      <hi>Copernicus,</hi> that learned ſage,</l>
@@ -956,7 +957,7 @@
                   <l>With <hi>ſtratum, ſuper ſtratum;</hi>
                   </l>
                   <l>
-                     <pb n="18" facs="tcp:015603_0029_0F99D456B8079508"/>There's mighty magic in the name,</l>
+                     <pb n="18" facs="unknown:015603_0029_0F99D456B8079508"/>There's mighty magic in the name,</l>
                   <l>'Tis Nature's Poſtulatum.</l>
                   <l>Wine, in nature's next to love;</l>
                   <l>Then wiſely let us blend 'em;</l>
@@ -984,7 +985,7 @@
                   <l>And the Inns, when they're out, ſay the ſame things themſelves.</l>
                </lg>
                <lg n="3">
-                  <pb n="19" facs="tcp:015603_0030_0F99D457CBFF80B0"/>
+                  <pb n="19" facs="unknown:015603_0030_0F99D457CBFF80B0"/>
                   <head>III.</head>
                   <l>It is a cunning Credulity ever enſlaves;</l>
                   <l>The world is a Hot-bed, to raiſe Fools and Knaves:</l>
@@ -1032,7 +1033,7 @@
                   <l>And <hi>Yes</hi> and <hi>No</hi> bought and ſold; more's the misfortune.</l>
                </lg>
                <lg n="9">
-                  <pb n="20" facs="tcp:015603_0031_0F99D4589C118C00"/>
+                  <pb n="20" facs="unknown:015603_0031_0F99D4589C118C00"/>
                   <head>IX.</head>
                   <l>When a Beauty's enjoy'd by a Man of the Town,</l>
                   <l>What he doated laſt week on, this week he'll diſown.</l>
@@ -1062,7 +1063,7 @@
                   <l>When our Time's come, we muſt go.</l>
                </lg>
                <lg n="2">
-                  <pb n="21" facs="tcp:015603_0032_0F99D4593514AF20"/>
+                  <pb n="21" facs="unknown:015603_0032_0F99D4593514AF20"/>
                   <head>II. Tune,—<hi>Life is chequer'd.</hi>
                   </head>
                   <l>Hark the boatſwain hoarſely bawling</l>
@@ -1097,7 +1098,7 @@
                   <l>In our eyes fierce lightning flaſhing,</l>
                   <l>Scorch the ſails, and ſtench the decks.</l>
                   <l>
-                     <pb n="22" facs="tcp:015603_0033_0F99D459E8785DE8"/>Burſting clouds upon us pouring,</l>
+                     <pb n="22" facs="unknown:015603_0033_0F99D459E8785DE8"/>Burſting clouds upon us pouring,</l>
                   <l>Black, o'erſpread the face of day,</l>
                   <l>Burying ſeas in whirlpools roaring,</l>
                   <l>Fiery flies the ſparkling ſpray.</l>
@@ -1136,7 +1137,7 @@
                   <l>Daddy ſoon will come again.</l>
                </lg>
                <lg n="8">
-                  <pb n="23" facs="tcp:015603_0034_0F99D57816BD9FF0"/>
+                  <pb n="23" facs="unknown:015603_0034_0F99D57816BD9FF0"/>
                   <head>VIII. Tune,—<hi>Early one morn a jolly young Tar.</hi>
                   </head>
                   <l>If we muſt die, why die we muſt,</l>
@@ -1172,7 +1173,7 @@
                   <l>Hark, what means yon happy cry!</l>
                </lg>
                <lg n="11">
-                  <pb n="24" facs="tcp:015603_0035_0F99D579AAAC87B0"/>
+                  <pb n="24" facs="unknown:015603_0035_0F99D579AAAC87B0"/>
                   <head>XI.</head>
                   <l>The Leak we've found, it cannot pour faſt,</l>
                   <l>We've lighten'd her a foot or more.</l>
@@ -1203,7 +1204,7 @@
                   <l>He may pick up our Offals, and rail at the feaſt.</l>
                </lg>
                <lg n="3">
-                  <pb n="25" facs="tcp:015603_0036_0F99D57A58C0F9A0"/>
+                  <pb n="25" facs="unknown:015603_0036_0F99D57A58C0F9A0"/>
                   <head>III.</head>
                   <l>The union of Souls is a Taſk, words may try,</l>
                   <l>But Lover's Senſations, deſcription defy;</l>
@@ -1247,7 +1248,7 @@
                   <l>But attempting to riſe, he fell drunk on the floor.</l>
                </lg>
                <lg n="9">
-                  <pb n="26" facs="tcp:015603_0037_0F99D57B97BF0A60"/>
+                  <pb n="26" facs="unknown:015603_0037_0F99D57B97BF0A60"/>
                   <head>IX.</head>
                   <l>As I order'd a Bed, ſays my love-looking fair,</l>
                   <l>"As to Bed, my dear! Reaſon has no buſineſs there;</l>
@@ -1281,7 +1282,7 @@
                   <l>It reflects the gay green on it's ſides.</l>
                </lg>
                <lg n="3">
-                  <pb n="27" facs="tcp:015603_0038_0F99D57C28AB2200"/>
+                  <pb n="27" facs="unknown:015603_0038_0F99D57C28AB2200"/>
                   <head>III.</head>
                   <l>In Farm-yard, by his feather'd Seraglio careſs'd,</l>
                   <l>The King of the Walk dares to crow;</l>
@@ -1325,7 +1326,7 @@
                </lg>
             </div>
             <div n="13" type="song">
-               <pb n="28" facs="tcp:015603_0039_0F99D57E9EDAA2C8"/>
+               <pb n="28" facs="unknown:015603_0039_0F99D57E9EDAA2C8"/>
                <head>SONG XIII. THE ARTISTS.</head>
                <opener>Tune, <hi>Though Man has long boaſted an abſolute ſway.</hi>
                </opener>
@@ -1359,7 +1360,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="29" facs="tcp:015603_0040_0F99D580602683B8"/>
+                  <pb n="29" facs="unknown:015603_0040_0F99D580602683B8"/>
                   <head>IV.</head>
                   <l>"Haſte home with them Hermes," away flew the God,</l>
                   <l>And the yielding clouds cut with his ſnake twiſted rod;</l>
@@ -1400,7 +1401,7 @@
                </lg>
             </div>
             <div n="14" type="song">
-               <pb n="30" facs="tcp:015603_0041_0F99D581500CA098"/>
+               <pb n="30" facs="unknown:015603_0041_0F99D581500CA098"/>
                <head>SONG XIV. THE DREAM.</head>
                <opener>Tune,—<hi>Puſh about the briſk Bowl.</hi>
                </opener>
@@ -1445,7 +1446,7 @@
                   <l>And <hi>Diſeaſe</hi> taint <hi>Simplicity</hi>'s bloom.</l>
                </lg>
                <lg n="6">
-                  <pb n="31" facs="tcp:015603_0042_0F99D58172064A28"/>
+                  <pb n="31" facs="unknown:015603_0042_0F99D58172064A28"/>
                   <head>VI.</head>
                   <l>
                      <hi>Stubborn Will</hi> againſt <hi>Prudence</hi> was waging a fight,</l>
@@ -1493,7 +1494,7 @@
                   <l>Life's all the ſame laughable ſcene.</l>
                </lg>
                <lg n="12">
-                  <pb n="32" facs="tcp:015603_0043_0F99D582303E5398"/>
+                  <pb n="32" facs="unknown:015603_0043_0F99D582303E5398"/>
                   <head>XII.</head>
                   <l>'Tis a pitiful Piece, like a Farce in a Fair,</l>
                   <l>Where ſhew, noiſe, and nonſenſe miſrule,</l>
@@ -1535,7 +1536,7 @@
                   <l>Are things of the Inn, where in Life's-ſtage you bait.</l>
                </lg>
                <lg n="5">
-                  <pb n="33" facs="tcp:015603_0044_0F99D582EFB31EE0"/>
+                  <pb n="33" facs="unknown:015603_0044_0F99D582EFB31EE0"/>
                   <head>V.</head>
                   <l>Awhile you the labours of Luxury bear,</l>
                   <l>'Till Time tells you out, to make room for your heir;</l>
@@ -1575,7 +1576,7 @@
                   <l>Like dull Porter Drinkers, I drowſily ſtood,</l>
                   <l>Heavily humming out, Toll, loll, loll, loll.</l>
                   <l>
-                     <pb n="34" facs="tcp:015603_0045_0F99D583C7E4A528"/>The Fair of my Fancy whiſk'd into the room,</l>
+                     <pb n="34" facs="unknown:015603_0045_0F99D583C7E4A528"/>The Fair of my Fancy whiſk'd into the room,</l>
                   <l>All lovely ſhe look'd, like a May morning's bloom,</l>
                   <l>Her form was, but forming a Simile's flat,</l>
                   <l>Think all that you can think, and ſhe was all that,</l>
@@ -1618,7 +1619,7 @@
                   <l>Toll, loll, loll, &amp;c.</l>
                </lg>
                <lg n="5">
-                  <pb n="35" facs="tcp:015603_0046_0F99D585351B0C08"/>
+                  <pb n="35" facs="unknown:015603_0046_0F99D585351B0C08"/>
                   <head>V.</head>
                   <l>To practiſe Love's leſſon exceeds all the ſchools,</l>
                   <l>Scarlatti and Handel, and ſuch folk were fools,</l>
@@ -1655,7 +1656,7 @@
                   <l>It was then a fine—Toll, de roll, loll.</l>
                </lg>
                <lg n="2">
-                  <pb n="36" facs="tcp:015603_0047_0F99D58784661940"/>
+                  <pb n="36" facs="unknown:015603_0047_0F99D58784661940"/>
                   <head>II.</head>
                   <l>Inconſtant mankind</l>
                   <l>Could not keep in one mind,</l>
@@ -1692,7 +1693,7 @@
                   <l>They are the Engliſh Tarr's Toll de roll,</l>
                </lg>
                <lg n="6">
-                  <pb n="37" facs="tcp:015603_0048_0F99D58828DE20B0"/>
+                  <pb n="37" facs="unknown:015603_0048_0F99D58828DE20B0"/>
                   <head>VI.</head>
                   <l>At the place Minden nam'd,</l>
                   <l>By the Britiſh Foot fam'd,</l>
@@ -1727,7 +1728,7 @@
                   <l>And nothing but Toll, toll, toll, toll, toll, toll.</l>
                </lg>
                <lg n="2">
-                  <pb n="38" facs="tcp:015603_0049_0F99D58C820E5248"/>
+                  <pb n="38" facs="unknown:015603_0049_0F99D58C820E5248"/>
                   <head>II.</head>
                   <l>If word-gnawing Critics grammattical bawl,</l>
                   <l>
@@ -1775,7 +1776,7 @@
                   <l>If you are Free-maſon'd, and underſtand Miſt'ry,</l>
                   <l>Toll, loll, loll, loll, loll, is Loll, toll, toll, toll.</l>
                   <l>
-                     <pb n="39" facs="tcp:015603_0050_0F99D58D6578B278"/>If more may be made on't, I beg to know what,</l>
+                     <pb n="39" facs="unknown:015603_0050_0F99D58D6578B278"/>If more may be made on't, I beg to know what,</l>
                   <l>It may be, or mayn't be, it can, or cannot;</l>
                   <l>For how be it, hereby, ſo be it, and ſo forth</l>
                   <l>But good friends excuſe me, indeed I muſt go forth.</l>
@@ -1814,7 +1815,7 @@
                   <l>Who catches at Crowns, when he ſhrinks from a Waſp.</l>
                </lg>
                <lg n="4">
-                  <pb n="40" facs="tcp:015603_0051_0F99D58D6C58EF90"/>
+                  <pb n="40" facs="unknown:015603_0051_0F99D58D6C58EF90"/>
                   <head>IV.</head>
                   <l>O'er Paſſion can Beauty a conqueſt atchieve?</l>
                   <l>Could Sampſon an Ague engage?</l>
@@ -1853,7 +1854,7 @@
                   <l>To Juno, Jove's majeſtic dame,</l>
                   <l>Fair Haebe hail'd each gueſt.</l>
                   <l>
-                     <pb n="41" facs="tcp:015603_0052_0F99D58E9F289FA0"/>With Phoebus, Bacchus, wit and wine,</l>
+                     <pb n="41" facs="unknown:015603_0052_0F99D58E9F289FA0"/>With Phoebus, Bacchus, wit and wine,</l>
                   <l>Like man and wife, ſhou'd ſocial ſhine.</l>
                   <l>With I fall, lal, la.</l>
                </lg>
@@ -1897,7 +1898,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="42" facs="tcp:015603_0053_0F99D58EE87F4B58"/>
+                  <pb n="42" facs="unknown:015603_0053_0F99D58EE87F4B58"/>
                   <head>VI.</head>
                   <l>This order Iris bore to earth,</l>
                   <l>Minerva charg'd the fair,</l>
@@ -1940,7 +1941,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="43" facs="tcp:015603_0054_0F99D5952E6BB678"/>
+                  <pb n="43" facs="unknown:015603_0054_0F99D5952E6BB678"/>
                   <head>IV.</head>
                   <l>Kings, Stateſmen, and Patriots, illuſtrious chuſe</l>
                   <l>The ſlant azure bandage, the mark of True Blues;</l>
@@ -1982,7 +1983,7 @@
                </lg>
             </div>
             <div n="22" type="song">
-               <pb n="44" facs="tcp:015603_0055_0F99D596CBFB8CF8"/>
+               <pb n="44" facs="unknown:015603_0055_0F99D596CBFB8CF8"/>
                <head>SONG XXII. THE WINE VAULT.</head>
                <opener>Tune,—<hi>The Hounds are all out.</hi>
                </opener>
@@ -2023,7 +2024,7 @@
                   <l>Like ſtucco-work cut out of moſs.</l>
                </lg>
                <lg n="6">
-                  <pb n="45" facs="tcp:015603_0056_0F99D5983AE4C840"/>
+                  <pb n="45" facs="unknown:015603_0056_0F99D5983AE4C840"/>
                   <head>VI.</head>
                   <l>When the lamp is brimful how the taper flame ſhines,</l>
                   <l>Which when moiſture is wanting decays;</l>
@@ -2070,7 +2071,7 @@
                </lg>
             </div>
             <div n="23" type="song">
-               <pb n="46" facs="tcp:015603_0057_0F99D598ACC34E08"/>
+               <pb n="46" facs="unknown:015603_0057_0F99D598ACC34E08"/>
                <head>SONG XXIII. A PASTORAL.</head>
                <opener>Tune,—<hi>Deſpairing beſide a clear ſtream.</hi>
                </opener>
@@ -2108,7 +2109,7 @@
                   <l>And ſquinting, ſhe leer'd upon him.</l>
                </lg>
                <lg n="4">
-                  <pb n="47" facs="tcp:015603_0058_0F99D59969FCBBC8"/>
+                  <pb n="47" facs="unknown:015603_0058_0F99D59969FCBBC8"/>
                   <head>IV.</head>
                   <l>"Oh, my love, thof I cannot well jaw,"</l>
                   <l>This plyer at playhouſe began,</l>
@@ -2152,7 +2153,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="48" facs="tcp:015603_0059_0F99D59A29D40200"/>
+                  <pb n="48" facs="unknown:015603_0059_0F99D59A29D40200"/>
                   <head>II.</head>
                   <l>How then ſhall we laugh at each ſublunar ſyſtem,</l>
                   <l>And prove to ſtar-peepers how much they have miſt 'em,</l>
@@ -2196,7 +2197,7 @@
                   <l>Preſent and give fire in volleys of kiſſes.</l>
                </lg>
                <lg n="8">
-                  <pb n="49" facs="tcp:015603_0060_0F99D59C783363E0"/>
+                  <pb n="49" facs="unknown:015603_0060_0F99D59C783363E0"/>
                   <head>VIII.</head>
                   <l>But we'll have no more now of Roundelays rattling,</l>
                   <l>Of chiming and rhiming, of tittling and tattling,</l>
@@ -2239,7 +2240,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="50" facs="tcp:015603_0061_0F99D59DCA548418"/>
+                  <pb n="50" facs="unknown:015603_0061_0F99D59DCA548418"/>
                   <head>V.</head>
                   <l>Says the <hi>Venom-Tooth'd-Savage,</hi> on this advice fix,</l>
                   <l>Tho' <hi>Nature</hi> ſtrikes twelve, <hi>Folly</hi> ſtill points to ſix</l>
@@ -2283,7 +2284,7 @@
                   <l>'Tis the pride of the year, it is May.</l>
                </lg>
                <lg n="2">
-                  <pb n="51" facs="tcp:015603_0062_0F99D59E8119AD60"/>
+                  <pb n="51" facs="unknown:015603_0062_0F99D59E8119AD60"/>
                   <head>II.</head>
                   <l>The Hare ſtarts away, Puſs diſturb'd from her ſeat</l>
                   <l>Flies frighted, and doubles the Wold.</l>
@@ -2327,7 +2328,7 @@
                </lg>
             </div>
             <div n="27" type="song">
-               <pb n="52" facs="tcp:015603_0063_0F99D59EE0D78C08"/>
+               <pb n="52" facs="unknown:015603_0063_0F99D59EE0D78C08"/>
                <head>SONG XXVII. THE TRIO.</head>
                <opener>Tune,—<hi>Ye fair poſſeſs'd of ev'ry charm.</hi>
                </opener>
@@ -2370,7 +2371,7 @@
                   <l>"Yet friends take care of me.</l>
                </lg>
                <lg n="4">
-                  <pb n="53" facs="tcp:015603_0064_0F99D5A05C5CE8F8"/>
+                  <pb n="53" facs="unknown:015603_0064_0F99D5A05C5CE8F8"/>
                   <head>IV.</head>
                   <l>"Without me, <hi>Beauty</hi> wins no <hi>Heart,</hi>
                   </l>
@@ -2408,7 +2409,7 @@
                   <l>What Maid cou'd ſay no to a new coach-and-ſix</l>
                </lg>
                <lg n="2">
-                  <pb n="54" facs="tcp:015603_0065_0F99D5A10E5EE0F8"/>
+                  <pb n="54" facs="unknown:015603_0065_0F99D5A10E5EE0F8"/>
                   <head>II.</head>
                   <l>We'll ſuppoſe they were wed, the gueſts bid, ſupper done,</l>
                   <l>The fond pair in bed, and the ſtocking was thrown,</l>
@@ -2452,7 +2453,7 @@
                   <l>I'm ſure they're beſt pleas'd when they gain t'other end.</l>
                </lg>
                <lg n="8">
-                  <pb n="55" facs="tcp:015603_0066_0F99D5A1B59EC6B0"/>
+                  <pb n="55" facs="unknown:015603_0066_0F99D5A1B59EC6B0"/>
                   <head>VIII.</head>
                   <l>The end of our wiſhes, the end of our wives,</l>
                   <l>The end of our loves, and the end of our lives,</l>
@@ -2494,7 +2495,7 @@
                   <l>They're furniſh'd by folks out of place.</l>
                </lg>
                <lg n="4">
-                  <pb n="56" facs="tcp:015603_0067_0F99D5A2C63497B0"/>
+                  <pb n="56" facs="unknown:015603_0067_0F99D5A2C63497B0"/>
                   <head>IV.</head>
                   <l>If the nod of a Courtier our cringing ſhou'd crown.</l>
                   <l>Or bit by a ſmile from the fair,</l>
@@ -2547,7 +2548,7 @@
                   </l>
                </lg>
                <lg n="10">
-                  <pb n="57" facs="tcp:015603_0068_0F99D5A35AB708F8"/>
+                  <pb n="57" facs="unknown:015603_0068_0F99D5A35AB708F8"/>
                   <head>X.</head>
                   <l>'Till Death!—How appalling muſt that ſentence be?</l>
                   <l>What looks then the proudeſt muſt wear?</l>
@@ -2590,7 +2591,7 @@
                   <l>And up ſtairs he ſtepp'd with aſthmatical pant.</l>
                </lg>
                <lg n="3">
-                  <pb n="58" facs="tcp:015603_0069_0F99D5A7910EC2A0"/>
+                  <pb n="58" facs="unknown:015603_0069_0F99D5A7910EC2A0"/>
                   <head>III.</head>
                   <l>The door op'ning wide, ſolus enter'd the ſprite,</l>
                   <l>Black and all black his dreſs, ſable emblem of Night.</l>
@@ -2640,7 +2641,7 @@
                </lg>
             </div>
             <div n="31" type="song">
-               <pb n="59" facs="tcp:015603_0070_0F99D5A934A591D0"/>
+               <pb n="59" facs="unknown:015603_0070_0F99D5A934A591D0"/>
                <head>SONG XXXI. ELIXIR L'ARGENT.</head>
                <opener>Tune,—<hi>Pretty Peggy of Windſor.</hi>
                </opener>
@@ -2675,7 +2676,7 @@
                   </l>
                </lg>
                <lg>
-                  <pb n="60" facs="tcp:015603_0071_0F99D5AA975553E0"/>
+                  <pb n="60" facs="unknown:015603_0071_0F99D5AA975553E0"/>
                   <l>'Tis a <hi>Stiptic</hi> to ſtop maidens ſcruples,</l>
                   <l>An <hi>Opiate</hi> makes jealouſy reſt;</l>
                   <l>'Tis a <hi>Lecture</hi> where all men are pupils,</l>
@@ -2722,7 +2723,7 @@
                </lg>
             </div>
             <div n="32" type="song">
-               <pb n="61" facs="tcp:015603_0072_0F99D5ACA1414288"/>
+               <pb n="61" facs="unknown:015603_0072_0F99D5ACA1414288"/>
                <head>SONG XXXII. GAMING.</head>
                <opener>Tune,—<hi>Ye Virgins of Britain who wiſely attend.</hi>
                </opener>
@@ -2766,7 +2767,7 @@
                   <l>"It was thought wrong to have the right ſide of a Bett</l>
                </lg>
                <lg n="6">
-                  <pb n="62" facs="tcp:015603_0073_0F99D5AD01488D60"/>
+                  <pb n="62" facs="unknown:015603_0073_0F99D5AD01488D60"/>
                   <head>VI.</head>
                   <l>"Life's like Hazard-playing, we all wiſh to win,</l>
                   <l>"And he muſt have luck, to be ſure, who throws in.</l>
@@ -2814,7 +2815,7 @@
                </lg>
             </div>
             <div n="33" type="song">
-               <pb n="63" facs="tcp:015603_0074_0F99D5ADB8919910"/>
+               <pb n="63" facs="unknown:015603_0074_0F99D5ADB8919910"/>
                <head>SONG XXXIII. THE JOLLY SOUL.</head>
                <opener>Tune,—<hi>The Wine Vault.</hi>
                </opener>
@@ -2856,7 +2857,7 @@
                   <l>Why then we may do well enough.</l>
                </lg>
                <lg n="6">
-                  <pb n="64" facs="tcp:015603_0075_0F99D5AE82439AE8"/>
+                  <pb n="64" facs="unknown:015603_0075_0F99D5AE82439AE8"/>
                   <head>VI.</head>
                   <l>In half-pints the Parl'ament houſe then I'll toaſt,</l>
                   <l>And GEORGE too, upon my bare knee;</l>
@@ -2903,7 +2904,7 @@
                </lg>
             </div>
             <div n="34" type="song">
-               <pb n="65" facs="tcp:015603_0076_0F99D5AF2AABFB10"/>
+               <pb n="65" facs="unknown:015603_0076_0F99D5AF2AABFB10"/>
                <head>SONG XXXIV. TO-DAY AND TO-NIGHT.</head>
                <opener>Tune,—<hi>What a Blockhead is he who's afraid to die poor.</hi>
                </opener>
@@ -2947,7 +2948,7 @@
                   <l>In nothing to ſay, and—in nothing to do.</l>
                </lg>
                <lg n="6">
-                  <pb n="66" facs="tcp:015603_0077_0F99D5AFEBE71708"/>
+                  <pb n="66" facs="unknown:015603_0077_0F99D5AFEBE71708"/>
                   <head>VI.</head>
                   <l>As for thinking <hi>To-day</hi> 'tis abſurd to begin:</l>
                   <l>A head fine frizzur'd wants no finiſh within,</l>
@@ -2992,7 +2993,7 @@
                   <l>Let as only mind how we drink.</l>
                </lg>
                <lg n="2">
-                  <pb n="67" facs="tcp:015603_0078_0F99D5B0AAC1B1A8"/>
+                  <pb n="67" facs="unknown:015603_0078_0F99D5B0AAC1B1A8"/>
                   <head>II.</head>
                   <l>There was <hi>Solomon</hi> one of the wiſe things</l>
                   <l>When paſt it, began to complain:</l>
@@ -3030,7 +3031,7 @@
                   <l>When you meet with a man to your mind.</l>
                </lg>
                <lg n="2">
-                  <pb n="68" facs="tcp:015603_0079_0F99D5B1F6641668"/>
+                  <pb n="68" facs="unknown:015603_0079_0F99D5B1F6641668"/>
                   <head>II.</head>
                   <l>When Gratitude Friendſhip to Fondneſs unites,</l>
                   <l>Inexpreſſive endearments ariſe:</l>
@@ -3073,7 +3074,7 @@
                   <l>The Lip's ſilent language at night.</l>
                </lg>
                <lg n="8">
-                  <pb n="69" facs="tcp:015603_0080_0F99D5B29CC51108"/>
+                  <pb n="69" facs="unknown:015603_0080_0F99D5B29CC51108"/>
                   <head>VIII.</head>
                   <l>The raptures of KISSING we only can taſte,</l>
                   <l>When ſympathies equal inſpire;</l>
@@ -3109,7 +3110,7 @@
                   <l>Tho'f I will ſing nothing but Bartleme Fair-o.</l>
                </lg>
                <lg n="2">
-                  <pb n="70" facs="tcp:015603_0081_0F99D5B40B2C2350"/>
+                  <pb n="70" facs="unknown:015603_0081_0F99D5B40B2C2350"/>
                   <head>II.</head>
                   <l>Here firſt of all, crowds againſt other crowds driving,</l>
                   <l>Like wind and tide meeting, each contrary ſtriving;</l>
@@ -3146,7 +3147,7 @@
                   <l>And ſome men, as ſcholars, are not much his betters.</l>
                </lg>
                <lg n="6">
-                  <pb n="71" facs="tcp:015603_0082_0F99D5B468725308"/>
+                  <pb n="71" facs="unknown:015603_0082_0F99D5B468725308"/>
                   <head>VI.</head>
                   <l>This world's a wide fair, where we ramble 'mong gay things;</l>
                   <l>Our paſſions, like children, are tempted by play-things;</l>
@@ -3182,7 +3183,7 @@
                   <l>The roof with their ſhrill trebles ring.</l>
                </lg>
                <lg n="4">
-                  <pb n="72" facs="tcp:015603_0083_0F99D5B89AFA8650"/>
+                  <pb n="72" facs="unknown:015603_0083_0F99D5B89AFA8650"/>
                   <head>IV.</head>
                   <l>Thoſe Cynics who brood o'er a ſingle life's ſpleen,</l>
                   <l>The offspring they have dare not own,</l>
@@ -3235,7 +3236,7 @@
                   <l>And compare ſuch a life with your own.</l>
                </lg>
                <lg n="10">
-                  <pb n="73" facs="tcp:015603_0084_0F99D5B9DD4E80A0"/>
+                  <pb n="73" facs="unknown:015603_0084_0F99D5B9DD4E80A0"/>
                   <head>X.</head>
                   <l>Vain Jeſters be mute, I'll a Sentiment give,</l>
                   <l>A Toaſt which eſteem will not ſcorn;</l>
@@ -3277,7 +3278,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="74" facs="tcp:015603_0085_0F99D5BBD4D43AC8"/>
+                  <pb n="74" facs="unknown:015603_0085_0F99D5BBD4D43AC8"/>
                   <head>III.</head>
                   <l>We jolily join in the practice of Wine,</l>
                   <l>While miſers 'midſt millions are pining;</l>
@@ -3313,7 +3314,7 @@
                   <l>Right hand to glaſs join—at lips reſt the wine—</l>
                   <l>But be in your exerciſe ſteady.</l>
                   <l>
-                     <pb n="75" facs="tcp:015603_0086_0F99D5BBF4270B30"/>Our levels we boaſt,</l>
+                     <pb n="75" facs="unknown:015603_0086_0F99D5BBF4270B30"/>Our levels we boaſt,</l>
                   <l>When our women we toaſt,</l>
                   <l>May graciouſly they undertake us;</l>
                   <l>No more we deſire,</l>
@@ -3349,7 +3350,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="76" facs="tcp:015603_0087_0F99D5BCACFCA9A0"/>
+                  <pb n="76" facs="unknown:015603_0087_0F99D5BCACFCA9A0"/>
                   <head>III.</head>
                   <l>Fox-hunting, boldly Bucks embrace,</l>
                   <l>But Sportſmen of diſcernment,</l>
@@ -3383,7 +3384,7 @@
                   <l>And not undo the Nation.</l>
                </lg>
                <lg n="6">
-                  <pb n="77" facs="tcp:015603_0088_0F99D5BD6A09FE50"/>
+                  <pb n="77" facs="unknown:015603_0088_0F99D5BD6A09FE50"/>
                   <head>VI.</head>
                   <l>So to conclude, and make an end,</l>
                   <l>Of this nice-diction'd ditty,</l>
@@ -3422,7 +3423,7 @@
                   <l>All baby-like bawling for each bauble there.</l>
                </lg>
                <lg n="4">
-                  <pb n="78" facs="tcp:015603_0089_0F99D5BE2D436AE8"/>
+                  <pb n="78" facs="unknown:015603_0089_0F99D5BE2D436AE8"/>
                   <head>IV.</head>
                   <l>If Denial ſhould follow a Lover's requeſt,</l>
                   <l>Like a tooth-cutting child he's a troubleſome gueſt,</l>
@@ -3470,7 +3471,7 @@
                </lg>
             </div>
             <div n="42" type="song">
-               <pb n="79" facs="tcp:015603_0090_0F99D5BEE9168630"/>
+               <pb n="79" facs="unknown:015603_0090_0F99D5BEE9168630"/>
                <head>SONG XLII. THE RAREE SHEW.</head>
                <opener>Tune,—<hi>Now we're free from College Rules.</hi>
                </opener>
@@ -3505,7 +3506,7 @@
                   <l>In this World's Drama, to ſucceed.</l>
                   <l>'Tis as you can deceive, Sir.</l>
                   <l>
-                     <pb n="80" facs="tcp:015603_0091_0F99D5BFA90B6E58"/>You may be caught, by face or dreſs,</l>
+                     <pb n="80" facs="unknown:015603_0091_0F99D5BFA90B6E58"/>You may be caught, by face or dreſs,</l>
                   <l>Before you come to know folks;</l>
                   <l>But then the Counterfeits confeſs.</l>
                   <l>They're all—but only Shew-Folks.</l>
@@ -3549,7 +3550,7 @@
                </lg>
             </div>
             <div n="43" type="song">
-               <pb n="81" facs="tcp:015603_0092_0F99D5C1161E9900"/>
+               <pb n="81" facs="unknown:015603_0092_0F99D5C1161E9900"/>
                <head>SONG XLIII. THE CONNOISSEUR.</head>
                <opener>Tune,—<hi>Maſks all.</hi>
                </opener>
@@ -3595,7 +3596,7 @@
                   <l>Knock him down with a Bett, then your triumph's ſecure,</l>
                </lg>
                <lg n="6">
-                  <pb n="82" facs="tcp:015603_0093_0F99D5C12B87F390"/>
+                  <pb n="82" facs="unknown:015603_0093_0F99D5C12B87F390"/>
                   <head>VI.</head>
                   <l>With high-varniſh'd maſters, and bronz'd buſtos grac'd,</l>
                   <l>Your houſe, like a toy-ſhop, is lumber'd in Taſte.</l>
@@ -3642,7 +3643,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="83" facs="tcp:015603_0094_0F99D5C2CC01BB00"/>
+                  <pb n="83" facs="unknown:015603_0094_0F99D5C2CC01BB00"/>
                   <head>III.</head>
                   <l>Who'll Preſident be?</l>
                   <l>
@@ -3681,7 +3682,7 @@
                   <l>'Cauſe every thing's not as it ſhou'd.</l>
                </lg>
                <lg n="7">
-                  <pb n="84" facs="tcp:015603_0095_0F99D5C369B75A10"/>
+                  <pb n="84" facs="unknown:015603_0095_0F99D5C369B75A10"/>
                   <head>VII.</head>
                   <l>If Penſion, or Place,</l>
                   <l>Is the gift of His Grace,</l>
@@ -3722,7 +3723,7 @@
                </lg>
             </div>
             <div n="45" type="song">
-               <pb n="85" facs="tcp:015603_0096_0F99D5C6836BC350"/>
+               <pb n="85" facs="unknown:015603_0096_0F99D5C6836BC350"/>
                <head>SONG XLV. DICK AND DOLL.</head>
                <opener>Tune,—<hi>I'm like a Skiff on the Ocean toſs'd.</hi>
                </opener>
@@ -3763,7 +3764,7 @@
                   <l>Expiring accents hung.</l>
                </lg>
                <lg n="4">
-                  <pb n="86" facs="tcp:015603_0097_0F99D5C7523C3680"/>
+                  <pb n="86" facs="unknown:015603_0097_0F99D5C7523C3680"/>
                   <head>IV.</head>
                   <l>The chorus birds ſung o'er their heads,</l>
                   <l>The breeze blew ruſtling through the grove,</l>
@@ -3799,7 +3800,7 @@
                </lg>
             </div>
             <div n="46" type="song">
-               <pb n="87" facs="tcp:015603_0098_0F99D5C7EE935ED0"/>
+               <pb n="87" facs="unknown:015603_0098_0F99D5C7EE935ED0"/>
                <head>SONG XLVI. A SIMPLE PASTORAL.</head>
                <opener>To a very ſimple Tune of—<hi>Chriſtmas now is coming.</hi>
                </opener>
@@ -3840,7 +3841,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="88" facs="tcp:015603_0099_0F99D4874891A250"/>
+                  <pb n="88" facs="unknown:015603_0099_0F99D4874891A250"/>
                   <head>VI.</head>
                   <l>Hark! the tinkling Rills,</l>
                   <l>And the bubbling Fountains;</l>
@@ -3885,7 +3886,7 @@
                   <l>Or if waiſts are ſwelling.</l>
                </lg>
                <lg n="12">
-                  <pb n="89" facs="tcp:015603_0100_0F99D45E8284AB28"/>
+                  <pb n="89" facs="unknown:015603_0100_0F99D45E8284AB28"/>
                   <head>XII.</head>
                   <l>But, my Lads and Laſſes,</l>
                   <l>Mind a friend's adviſings,</l>
@@ -3918,7 +3919,7 @@
                   <l>What they cannot conceive they deny.</l>
                </lg>
                <lg n="4">
-                  <pb n="90" facs="tcp:015603_0101_0F99D45F3113BC68"/>
+                  <pb n="90" facs="unknown:015603_0101_0F99D45F3113BC68"/>
                   <head>IV.</head>
                   <l>Thus ſome of your ſex, old and ugly, will rail,</l>
                   <l>Like Atheiſts all goodneſs they doubt,</l>
@@ -3953,7 +3954,7 @@
                   <l>Without Rules, or Schools, ſure we know when we're right.</l>
                </lg>
                <lg n="2">
-                  <pb n="91" facs="tcp:015603_0102_0F99D460B2CEF928"/>
+                  <pb n="91" facs="unknown:015603_0102_0F99D460B2CEF928"/>
                   <head>II.</head>
                   <l>The Inf'rence from hence which I draw, but firſt drink,</l>
                   <l>A Bumper's the beſt preparation to think:</l>
@@ -3991,7 +3992,7 @@
                   <l>We live as we like—let them live as they pleaſe.</l>
                </lg>
                <lg n="7">
-                  <pb n="92" facs="tcp:015603_0103_0F99D461CBF8CDD8"/>
+                  <pb n="92" facs="unknown:015603_0103_0F99D461CBF8CDD8"/>
                   <head>VII.</head>
                   <l>Our Voyage is Pleaſure, Hope hoiſts up the Sail.</l>
                   <l>Our Pilot is Inſtinct, Deſire the Gale;</l>
@@ -4026,7 +4027,7 @@
                   <l>What can a man know, who don't know A B C? Sir,</l>
                </lg>
                <lg n="4">
-                  <pb n="93" facs="tcp:015603_0104_0F99D4635DBBA608"/>
+                  <pb n="93" facs="unknown:015603_0104_0F99D4635DBBA608"/>
                   <head>IV.</head>
                   <l>Some Fiddlers, in dreſs, pretend to ape their betters,</l>
                   <l>They had better mind their Horn-book and ſtudy all their letters;</l>
@@ -4074,7 +4075,7 @@
                </lg>
             </div>
             <div n="50" type="song">
-               <pb n="94" facs="tcp:015603_0105_0F99D463C27472D0"/>
+               <pb n="94" facs="unknown:015603_0105_0F99D463C27472D0"/>
                <head>SONG L. COMMON SENSE.</head>
                <opener>Tune,—<hi>One morning young Roger accoſted me thus.</hi>
                </opener>
@@ -4117,7 +4118,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="95" facs="tcp:015603_0106_0F99D464A5E468B0"/>
+                  <pb n="95" facs="unknown:015603_0106_0F99D464A5E468B0"/>
                   <head>VI.</head>
                   <l>If chance ſhe is ſeen, though for fear we miſtake her,</l>
                   <l>She's natively neat, like a lovely young Quaker.</l>
@@ -4156,7 +4157,7 @@
                      <hi>Common Senſe</hi> ſhall for ever be <hi>under Par</hi> there.</l>
                </lg>
                <lg n="11">
-                  <pb n="96" facs="tcp:015603_0107_0F99D4656E124BD8"/>
+                  <pb n="96" facs="unknown:015603_0107_0F99D4656E124BD8"/>
                   <head>XI.</head>
                   <l>Come, I'll give you a Toaſt, if I give no offence—</l>
                   <l>Here's the Senſitive Plant, and the Root <hi>Common Senſe.</hi>
@@ -4193,7 +4194,7 @@
                   <l>And <hi>Martinique</hi> chorus'd Encore.</l>
                </lg>
                <lg n="3">
-                  <pb n="97" facs="tcp:015603_0108_0F99D466305B3A08"/>
+                  <pb n="97" facs="unknown:015603_0108_0F99D466305B3A08"/>
                   <head>III.</head>
                   <l>At <hi>Havre</hi> we play'd well our parts,</l>
                   <l>Though our Game they pretended to ſcoff,</l>
@@ -4231,7 +4232,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="98" facs="tcp:015603_0109_0F99D46B8F305228"/>
+                  <pb n="98" facs="unknown:015603_0109_0F99D46B8F305228"/>
                   <head>VI.</head>
                   <l>God bleſs our <hi>King George</hi> with Three Cheers, Sirs,</l>
                   <l>And God bleſs his <hi>Conſort,</hi> Amen.</l>
@@ -4266,7 +4267,7 @@
                   <l>The ſons and the daughters of Chat.</l>
                </lg>
                <lg n="3">
-                  <pb n="99" facs="tcp:015603_0110_0F99D46CC2F5C448"/>
+                  <pb n="99" facs="unknown:015603_0110_0F99D46CC2F5C448"/>
                   <head>III.</head>
                   <l>For a new Exhibition their Portraits we'll plan,</l>
                   <l>And Pen and Ink Likeneſſes ſketch if we can,</l>
@@ -4305,7 +4306,7 @@
                   <l>"And Genius is baniſh'd for Traſh."</l>
                </lg>
                <lg n="7">
-                  <pb n="100" facs="tcp:015603_0111_0F99D46DB2BDEDE0"/>
+                  <pb n="100" facs="unknown:015603_0111_0F99D46DB2BDEDE0"/>
                   <head>VII.</head>
                   <l>Diſdain frown'd his brow, redd'ning Rage his eyes caſt,</l>
                   <l>Contempt o'er his countenance ſpread as he paſt,</l>
@@ -4341,7 +4342,7 @@
                   <l>Who are lifted above what they ſhou'd.</l>
                </lg>
                <lg n="4">
-                  <pb n="101" facs="tcp:015603_0112_0F99D46F3856ED88"/>
+                  <pb n="101" facs="unknown:015603_0112_0F99D46F3856ED88"/>
                   <head>IV.</head>
                   <l>Epidemic Prognoſtics appear in each State,</l>
                   <l>Where <hi>Meanneſs</hi> in office is plac'd,</l>
@@ -4385,7 +4386,7 @@
                   <l>By whom he's with pity beheld.</l>
                </lg>
                <lg n="10">
-                  <pb n="102" facs="tcp:015603_0113_0F99D46FB436CA70"/>
+                  <pb n="102" facs="unknown:015603_0113_0F99D46FB436CA70"/>
                   <head>X.</head>
                   <l>Come <hi>meek ey'd Humility</hi> lend me thy hand,</l>
                   <l>
@@ -4423,7 +4424,7 @@
                   <l>A Miſtreſs's Arms is the Poſt I wou'd chuſe,</l>
                   <l>A Bottle and Friend are my Penſions.</l>
                   <l>
-                     <pb n="103" facs="tcp:015603_0114_0F99D470EA8285C8"/>Preferments at Court</l>
+                     <pb n="103" facs="unknown:015603_0114_0F99D470EA8285C8"/>Preferments at Court</l>
                   <l>Are Miniſters ſport,</l>
                   <l>When they ſee what to gain them folks do, Sir;</l>
                   <l>They may Boroughs command,</l>
@@ -4461,7 +4462,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="104" facs="tcp:015603_0115_0F99D472513895A8"/>
+                  <pb n="104" facs="unknown:015603_0115_0F99D472513895A8"/>
                   <head>V.</head>
                   <l>The Atoms of <hi>Cartes</hi> Sir <hi>Iſaac</hi> deſtroy'd;</l>
                   <l>
@@ -4494,7 +4495,7 @@
                </lg>
             </div>
             <div n="55" type="song">
-               <pb n="105" facs="tcp:015603_0116_0F99D473E5F0BCF0"/>
+               <pb n="105" facs="unknown:015603_0116_0F99D473E5F0BCF0"/>
                <head>SONG LV. MAY.</head>
                <opener>Tune,—<hi>A beautiful Face, and a Form without Fault.</hi>
                </opener>
@@ -4542,7 +4543,7 @@
                   <l>But their give-and-take Kiſſings,—O God!—I grew mad.</l>
                </lg>
                <lg n="6">
-                  <pb n="106" facs="tcp:015603_0117_0F99D47428D673D8"/>
+                  <pb n="106" facs="unknown:015603_0117_0F99D47428D673D8"/>
                   <head>VI.</head>
                   <l>I turn'd from the ſight, then return'd in deſpair,</l>
                   <l>And pretended a cure by deſpiſing the Fair;</l>
@@ -4584,7 +4585,7 @@
                   <l>Arch SATAN 'twitch'd her by the ſleeve,</l>
                   <l>And ſhew'd a Golden Pippin;</l>
                   <l>
-                     <pb n="107" facs="tcp:015603_0118_0F99D477CC48DA08"/>Tempted by the glitt'ring charm,</l>
+                     <pb n="107" facs="unknown:015603_0118_0F99D477CC48DA08"/>Tempted by the glitt'ring charm,</l>
                   <l>'Twas ſaid ſhe ill-us'd Adam,</l>
                   <l>And ever ſince the ſame alarm</l>
                   <l>Betwitches MISS and MADAM.</l>
@@ -4624,7 +4625,7 @@
                   <l>And only vote for Juſtice.</l>
                </lg>
                <lg n="5">
-                  <pb n="108" facs="tcp:015603_0119_0F99D478F16C6F70"/>
+                  <pb n="108" facs="unknown:015603_0119_0F99D478F16C6F70"/>
                   <head>V.</head>
                   <l>O THOU! from whom each Bleſſing ſprings,</l>
                   <l>Earth, Seas, and Skies Director,</l>
@@ -4658,7 +4659,7 @@
                   <l>Beholding herſelf, to herſelf ſung this ſong.—</l>
                </lg>
                <lg n="2">
-                  <pb n="109" facs="tcp:015603_0120_0F99D47976303528"/>
+                  <pb n="109" facs="unknown:015603_0120_0F99D47976303528"/>
                   <head>II.</head>
                   <l>The 'Squire's fine Lady laſt night he brought home;</l>
                   <l>What! tho' in ſuch gay clothes from London ſhe's come,</l>
@@ -4702,7 +4703,7 @@
                   <l>But cold is that Pillow compar'd to his breaſt.</l>
                </lg>
                <lg n="8">
-                  <pb n="110" facs="tcp:015603_0121_0F99D47A31040110"/>
+                  <pb n="110" facs="unknown:015603_0121_0F99D47A31040110"/>
                   <head>VIII.</head>
                   <l>'Tis here for my Fair one!—her Lover reply'd,</l>
                   <l>O'er the hedge as he leap'd, and light dropp'd at her ſide;</l>
@@ -4739,7 +4740,7 @@
                   <l>To be ſure he was vain, and his women were vex'd.</l>
                </lg>
                <lg n="2">
-                  <pb n="111" facs="tcp:015603_0122_0F99D47BCD43BC98"/>
+                  <pb n="111" facs="unknown:015603_0122_0F99D47BCD43BC98"/>
                   <head>II.</head>
                   <l>On his own Times how wiſely King Solomon ſpoke,</l>
                   <l>But Wiſdom, in our Times, is rather a Joke.</l>
@@ -4780,7 +4781,7 @@
                </lg>
             </div>
             <div n="59" type="song">
-               <pb n="112" facs="tcp:015603_0123_0F99D47DDC08CDB8"/>
+               <pb n="112" facs="unknown:015603_0123_0F99D47DDC08CDB8"/>
                <head>SONG LIX. THE VETERAN.</head>
                <opener>Tune,—<hi>Give us Glaſſes my Wench.</hi>
                </opener>
@@ -4823,7 +4824,7 @@
                   <l>The Fops are for faſhion-ſake born.</l>
                </lg>
                <lg n="6">
-                  <pb n="113" facs="tcp:015603_0124_0F99D47E8F578938"/>
+                  <pb n="113" facs="unknown:015603_0124_0F99D47E8F578938"/>
                   <head>VI.</head>
                   <l>Thoſe Mode-made-up Things, flutter lifehood away,</l>
                   <l>Abortions of what Britons were:</l>
@@ -4869,7 +4870,7 @@
                </lg>
             </div>
             <div n="60" type="song">
-               <pb n="114" facs="tcp:015603_0125_0F99D47FD086BA68"/>
+               <pb n="114" facs="unknown:015603_0125_0F99D47FD086BA68"/>
                <head>SONG LX. A NEW ROAST BEEF</head>
                <opener>TO THE OLD TUNE.</opener>
                <lg n="1">
@@ -4905,7 +4906,7 @@
                   <l>They grew out of Hopes as they grew out of Beef.</l>
                </lg>
                <lg n="6">
-                  <pb n="115" facs="tcp:015603_0126_0F99D48028B42698"/>
+                  <pb n="115" facs="unknown:015603_0126_0F99D48028B42698"/>
                   <head>VI.</head>
                   <l>But at Minden, well fed, why we there fac'd about,</l>
                   <l>Right and Left, Van and Rear, Foot and Horſe put to rout;</l>
@@ -4954,7 +4955,7 @@
                </lg>
             </div>
             <div n="61" type="song">
-               <pb n="116" facs="tcp:015603_0127_0F99D4831FAFCD18"/>
+               <pb n="116" facs="unknown:015603_0127_0F99D4831FAFCD18"/>
                <head>SONG LXI. THE PIPE OF LOVE.</head>
                <opener>Tune,—<hi>Bleſs'd Age of Gold.</hi>
                </opener>
@@ -4993,7 +4994,7 @@
                   <l>"And ſeldom pipe to pleaſe their Wives."</l>
                </lg>
                <lg n="4">
-                  <pb n="117" facs="tcp:015603_0128_0F99D484606D7BB0"/>
+                  <pb n="117" facs="unknown:015603_0128_0F99D484606D7BB0"/>
                   <head>IV.</head>
                   <l>Blue broke the clouds, the day yet young,</l>
                   <l>The flowers fragrant fill'd the breeze;</l>
@@ -5035,7 +5036,7 @@
                   <l>The Fribble was not as <hi>ſhou'd</hi> be.</l>
                </lg>
                <lg n="2">
-                  <pb n="118" facs="tcp:015603_0129_0F99D484A9706600"/>
+                  <pb n="118" facs="unknown:015603_0129_0F99D484A9706600"/>
                   <head>II.</head>
                   <l>As Beauty is us'd,</l>
                   <l>So Britannia's abus'd,</l>
@@ -5074,7 +5075,7 @@
                   <l>I really, my friend, was miſtaken.</l>
                </lg>
                <lg n="6">
-                  <pb n="119" facs="tcp:015603_0130_0F99D4859BFFC150"/>
+                  <pb n="119" facs="unknown:015603_0130_0F99D4859BFFC150"/>
                   <head>VI.</head>
                   <l>His Market is made,</l>
                   <l>We all live by Trade,</l>
@@ -5117,7 +5118,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="120" facs="tcp:015603_0131_0F99D487B46F37C0"/>
+                  <pb n="120" facs="unknown:015603_0131_0F99D487B46F37C0"/>
                   <head>II.</head>
                   <l>A Bottle young Semele held up to view,</l>
                   <l>And begg'd ſhe'd obſerve his directions—</l>
@@ -5155,7 +5156,7 @@
                   <l>But Poets are apt to make free with their Betters.</l>
                </lg>
                <lg n="2">
-                  <pb n="121" facs="tcp:015603_0132_0F99D4886B803B00"/>
+                  <pb n="121" facs="unknown:015603_0132_0F99D4886B803B00"/>
                   <head>II.</head>
                   <l>I ſcorn to ſay aught, ſave the thing which is true,</l>
                   <l>No Beauties I'll plunder, yet give mine her due;</l>
@@ -5198,7 +5199,7 @@
                   <l>By her Spouſe ſo ſhe's ſerv'd when he throws them aſide.</l>
                </lg>
                <lg n="8">
-                  <pb n="122" facs="tcp:015603_0133_0F99D48A23CCC3B0"/>
+                  <pb n="122" facs="unknown:015603_0133_0F99D48A23CCC3B0"/>
                   <head>VIII.</head>
                   <l>Not too Tall, nor too Short, but I'll venture to ſay,</l>
                   <l>She's a very good Size—in the Middling way.</l>
@@ -5238,7 +5239,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="123" facs="tcp:015603_0134_0F99D48AAA1E45B8"/>
+                  <pb n="123" facs="unknown:015603_0134_0F99D48AAA1E45B8"/>
                   <head>IV.</head>
                   <l>The flow'ry Beds have loſt their bloom,</l>
                   <l>The verdant Grove's conceal'd in gloom,</l>
@@ -5284,7 +5285,7 @@
                   </l>
                </lg>
                <lg n="9">
-                  <pb n="124" facs="tcp:015603_0135_0F99D48EC1C5A4D0"/>
+                  <pb n="124" facs="unknown:015603_0135_0F99D48EC1C5A4D0"/>
                   <head>IX.</head>
                   <l>Love's raptur'd Rites are ſecret Joys,</l>
                   <l>Profan'd by Sots and babbling Boys;</l>
@@ -5327,7 +5328,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="125" facs="tcp:015603_0136_0F99D48FF8395F20"/>
+                  <pb n="125" facs="unknown:015603_0136_0F99D48FF8395F20"/>
                   <head>IV.</head>
                   <l>To Game we give Law, and Game Laws we have ſkill in,—</l>
                   <l>Here's <hi>Love's Laws, and they who thoſe Laws are fulfilling.</hi>
@@ -5382,7 +5383,7 @@
                   </l>
                </lg>
                <lg n="10">
-                  <pb n="126" facs="tcp:015603_0137_0F99D490BB8BBA88"/>
+                  <pb n="126" facs="unknown:015603_0137_0F99D490BB8BBA88"/>
                   <head>X.</head>
                   <l>The <hi>Dock-Yard which furniſhes Great Britain's Fleets,</hi>
                   </l>
@@ -5440,7 +5441,7 @@
                   <l>The Miniſter muſt do for me.</l>
                </lg>
                <lg n="2">
-                  <pb n="127" facs="tcp:015603_0138_0F99D49169D4ADE0"/>
+                  <pb n="127" facs="unknown:015603_0138_0F99D49169D4ADE0"/>
                   <head>II.</head>
                   <l>If he does not, nor cannot, for that's all the ſame,</l>
                   <l>But leaves me to ſink or to ſwim;</l>
@@ -5483,7 +5484,7 @@
                   <l>And one time or other we will.</l>
                </lg>
                <lg n="8">
-                  <pb n="128" facs="tcp:015603_0139_0F99D492614FDCD0"/>
+                  <pb n="128" facs="unknown:015603_0139_0F99D492614FDCD0"/>
                   <head>VIII.</head>
                   <l>Like Foxes I'll hunt Preſbyterians to Church,</l>
                   <l>For zounds we'll be all orthodox;</l>
@@ -5529,7 +5530,7 @@
                   </l>
                </lg>
                <lg n="14">
-                  <pb n="129" facs="tcp:015603_0140_0F99D493C3F0D5B8"/>
+                  <pb n="129" facs="unknown:015603_0140_0F99D493C3F0D5B8"/>
                   <head>XIV.</head>
                   <l>A Wife to be ſure! that's the faſhion in Town,</l>
                   <l>And faſhion for Wives to make free;</l>
@@ -5566,7 +5567,7 @@
                   <l>But firſt, may it pleaſe ye—my ſervice to you.</l>
                </lg>
                <lg n="3">
-                  <pb n="130" facs="tcp:015603_0141_0F99D494DC7F41F0"/>
+                  <pb n="130" facs="unknown:015603_0141_0F99D494DC7F41F0"/>
                   <head>III.</head>
                   <l>Perhaps my Addreſs you may premature think,</l>
                   <l>Becauſe I have mention'd no Toaſt as I drink;</l>
@@ -5615,7 +5616,7 @@
                   </l>
                </lg>
                <lg n="9">
-                  <pb n="131" facs="tcp:015603_0142_0F99D49566BA9CA0"/>
+                  <pb n="131" facs="unknown:015603_0142_0F99D49566BA9CA0"/>
                   <head>IX.</head>
                   <l>See England triumphant, her ſhips ſweep the ſea,</l>
                   <l>Her ſtandard is <hi>Juſtice,</hi> her watch-word be <hi>free;</hi>
@@ -5660,7 +5661,7 @@
                   <l>"As Traſh they behold all the World,—but themſelves.</l>
                </lg>
                <lg n="3">
-                  <pb n="132" facs="tcp:015603_0143_0F99D4969D722988"/>
+                  <pb n="132" facs="unknown:015603_0143_0F99D4969D722988"/>
                   <head>III.</head>
                   <l>"Illib'ral <hi>Ingratitude</hi> always will ſcold,</l>
                   <l>
@@ -5693,7 +5694,7 @@
                </lg>
             </div>
             <div n="71" type="song">
-               <pb n="133" facs="tcp:015603_0144_0F99D496AA6ACF78"/>
+               <pb n="133" facs="unknown:015603_0144_0F99D496AA6ACF78"/>
                <head>SONG LXXI. THE HUMBUG.</head>
                <opener>Tune,—<hi>The Man who is drunk is void of all Care.</hi>
                </opener>
@@ -5739,7 +5740,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="134" facs="tcp:015603_0145_0F99D499AE924978"/>
+                  <pb n="134" facs="unknown:015603_0145_0F99D499AE924978"/>
                   <head>V.</head>
                   <l>Miſs <hi>nicely</hi> obſerv'd, <hi>waſtly wulgar's this word,</hi>
                   </l>
@@ -5788,7 +5789,7 @@
                      <hi>Doodle, doodle, do,</hi> &amp;c.</l>
                </lg>
                <lg n="2">
-                  <pb n="135" facs="tcp:015603_0146_0F99D49B00E85878"/>
+                  <pb n="135" facs="unknown:015603_0146_0F99D49B00E85878"/>
                   <head>II.</head>
                   <l>O! th' extatic joys which flow, Sir,</l>
                   <l>When two ſouls congenial glow, Sir.</l>
@@ -5835,7 +5836,7 @@
                   <l>Then fall off into Diſgraces.</l>
                </lg>
                <lg n="9">
-                  <pb n="136" facs="tcp:015603_0147_0F99D49C9FE8E648"/>
+                  <pb n="136" facs="unknown:015603_0147_0F99D49C9FE8E648"/>
                   <head>IX.</head>
                   <l>All the work they make with wooings,</l>
                   <l>Couplings, changings, curſings, cooings,</l>
@@ -5867,7 +5868,7 @@
                   <l>'Tis not for your Honour and Glory.</l>
                </lg>
                <lg n="2">
-                  <pb n="137" facs="tcp:015603_0148_0F99D49CAC4E9720"/>
+                  <pb n="137" facs="unknown:015603_0148_0F99D49CAC4E9720"/>
                   <head>II.</head>
                   <l>Why will you permit theſe Mortality Frights,</l>
                   <l>What <hi>Olympus</hi> has plann'd to review?</l>
@@ -5901,7 +5902,7 @@
                   <l>And thus all their Syſtems confute.</l>
                </lg>
                <lg n="5">
-                  <pb n="138" facs="tcp:015603_0149_0F99D49D698731F0"/>
+                  <pb n="138" facs="unknown:015603_0149_0F99D49D698731F0"/>
                   <head>V.</head>
                   <l>Away, at his word, the vaſt COMET ruſh'd forth,</l>
                   <l>And ſwift thro' immenſity blaz'd;</l>
@@ -5942,7 +5943,7 @@
                </lg>
             </div>
             <div n="74" type="song">
-               <pb n="139" facs="tcp:015603_0150_0F99D49E2AD2E400"/>
+               <pb n="139" facs="unknown:015603_0150_0F99D49E2AD2E400"/>
                <head>SONG LXXIV. THE BLOOD.</head>
                <opener>Tune,—<hi>Tars of Old England.</hi>
                </opener>
@@ -5988,7 +5989,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="140" facs="tcp:015603_0151_0F99D49F09A46240"/>
+                  <pb n="140" facs="unknown:015603_0151_0F99D49F09A46240"/>
                   <head>V.</head>
                   <l>He laughs at <hi>Old Nick,</hi>
                   </l>
@@ -6036,7 +6037,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="141" facs="tcp:015603_0152_0F99D5396A0E4FC8"/>
+                  <pb n="141" facs="unknown:015603_0152_0F99D5396A0E4FC8"/>
                   <head>II.</head>
                   <l>But what do you think that I mean by all this?</l>
                   <l>Why Evil to them who imagine amiſs.</l>
@@ -6086,7 +6087,7 @@
                   </l>
                </lg>
                <lg n="8">
-                  <pb n="142" facs="tcp:015603_0153_0F99D53ADF2FBBF0"/>
+                  <pb n="142" facs="unknown:015603_0153_0F99D53ADF2FBBF0"/>
                   <head>VIII.</head>
                   <l>
                      <hi>My Country! my Country!</hi> that Phraſe cannot fail;</l>
@@ -6129,7 +6130,7 @@
                   <l>And drown'd Beauty's Altars in Wine, Sir.</l>
                </lg>
                <lg n="2">
-                  <pb n="143" facs="tcp:015603_0154_0F99D53AEA4FD538"/>
+                  <pb n="143" facs="unknown:015603_0154_0F99D53AEA4FD538"/>
                   <head>II.</head>
                   <l>By Styx, but 'tis falſe, jolly <hi>Bacchus</hi> reply'd;</l>
                   <l>Such ſlander I'll never endure, Ma'am.</l>
@@ -6174,7 +6175,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="144" facs="tcp:015603_0155_0F99D53BB53AF018"/>
+                  <pb n="144" facs="unknown:015603_0155_0F99D53BB53AF018"/>
                   <head>V.</head>
                   <l>Their Worſhips went firſt on the Cyprian Cauſe,</l>
                   <l>Unarray'd, Beauty figur'd before 'em;</l>
@@ -6212,7 +6213,7 @@
                   <l>And we know the Wiſe Folks too want Places.</l>
                </lg>
                <lg n="8">
-                  <pb n="145" facs="tcp:015603_0156_0F99D53C9E8BBB90"/>
+                  <pb n="145" facs="unknown:015603_0156_0F99D53C9E8BBB90"/>
                   <head>VIII.</head>
                   <l>Now <hi>Bacchus</hi> and <hi>Venus</hi> agreed 'twixt themſelves</l>
                   <l>Altercation hereafter to ſmother;</l>
@@ -6251,7 +6252,7 @@
                   <l>Then Whim to Whim, and yours to mine.</l>
                </lg>
                <lg n="3">
-                  <pb n="146" facs="tcp:015603_0157_0F99D53D28C52240"/>
+                  <pb n="146" facs="unknown:015603_0157_0F99D53D28C52240"/>
                   <head>III.</head>
                   <l>Or if you think in golden rain,</l>
                   <l>Like <hi>Jove,</hi> I'll pave my way,</l>
@@ -6294,7 +6295,7 @@
                </lg>
             </div>
             <div n="78" type="song">
-               <pb n="147" facs="tcp:015603_0158_0F99D540CC14D5A0"/>
+               <pb n="147" facs="unknown:015603_0158_0F99D540CC14D5A0"/>
                <head>SONG LXXVIII. GOD SAVE THE KING.</head>
                <opener>Tune,—<hi>While Waves rebound from Albion's ſhore.</hi>
                </opener>
@@ -6331,7 +6332,7 @@
                   <l>Such fellows can't be free.</l>
                </lg>
                <lg n="4">
-                  <pb n="148" facs="tcp:015603_0159_0F99D5424DD6F030"/>
+                  <pb n="148" facs="unknown:015603_0159_0F99D5424DD6F030"/>
                   <head>IV.</head>
                   <l>We meet for Mirth, we meet to Sing,</l>
                   <l>And jolly join—<hi>God ſave the King,</hi>
@@ -6367,7 +6368,7 @@
                </lg>
             </div>
             <div n="79" type="song">
-               <pb n="149" facs="tcp:015603_0160_0F99D5438E109600"/>
+               <pb n="149" facs="unknown:015603_0160_0F99D5438E109600"/>
                <head>SONG LXXIX. THE VISION.</head>
                <opener>Tune,—<hi>As I went o'er the Meadows, no matter the Day.</hi>
                </opener>
@@ -6411,7 +6412,7 @@
                   <l>With rapture the fond one return'd my Embrace.</l>
                </lg>
                <lg n="5">
-                  <pb n="150" facs="tcp:015603_0161_0F99D543F52C80C8"/>
+                  <pb n="150" facs="unknown:015603_0161_0F99D543F52C80C8"/>
                   <head>V.</head>
                   <l>Let Fribbles with Beauty as Fribbles behave,</l>
                   <l>And <hi>Pedantry</hi> boaſt, he is no Paſſion's Slave.</l>
@@ -6450,7 +6451,7 @@
                   <l>So ſtood between us and the Sun.</l>
                </lg>
                <lg n="3">
-                  <pb n="151" facs="tcp:015603_0162_0F99D544A8F2E130"/>
+                  <pb n="151" facs="unknown:015603_0162_0F99D544A8F2E130"/>
                   <head>III.</head>
                   <l>While pointing your Glaſſes, and winking each way,</l>
                   <l>Inquiſitives, what did you ſee?</l>
@@ -6489,7 +6490,7 @@
                   <l>There ſafe heard the pattering rain over head.</l>
                </lg>
                <lg n="2">
-                  <pb n="152" facs="tcp:015603_0163_0F99D5459DB0BD10"/>
+                  <pb n="152" facs="unknown:015603_0163_0F99D5459DB0BD10"/>
                   <head>II.</head>
                   <l>Some moments I ſuffer'd my Fair to take breath,</l>
                   <l>Then, ſighing, ſhe cry'd, "Lord! I'm frighted to Death;</l>
@@ -6526,7 +6527,7 @@
                   <l>What have you been doing? and what have I done?</l>
                </lg>
                <lg n="6">
-                  <pb n="153" facs="tcp:015603_0164_0F99D54A27DBE738"/>
+                  <pb n="153" facs="unknown:015603_0164_0F99D54A27DBE738"/>
                   <head>VI.</head>
                   <l>Into this fatal place, I moſt ſolemnly vow,</l>
                   <l>I innocent enter'd—but am I ſo now?</l>
@@ -6559,7 +6560,7 @@
                   <l>In the Cockpit at Whitehall</l>
                   <l>The beſt of meaſures moving,</l>
                   <l>
-                     <pb n="154" facs="tcp:015603_0165_0F99D54B86EE42F0"/>
+                     <pb n="154" facs="unknown:015603_0165_0F99D54B86EE42F0"/>
                      <hi>Outs</hi> will ſometimes <hi>Ins</hi> become,</l>
                   <l>'Twixt both ſides bold he ventures,</l>
                   <l>Puſhing things with vigour home,</l>
@@ -6603,7 +6604,7 @@
                   <l>For me upright to ſtand, Sir.</l>
                </lg>
                <lg n="6">
-                  <pb n="155" facs="tcp:015603_0166_0F99D54D0E86CFA0"/>
+                  <pb n="155" facs="unknown:015603_0166_0F99D54D0E86CFA0"/>
                   <head>VI.</head>
                   <l>On the Hill, along the Dale,</l>
                   <l>I ſometimes turn a Rover,</l>
@@ -6640,7 +6641,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="156" facs="tcp:015603_0167_0F99D54DB4D31DF8"/>
+                  <pb n="156" facs="unknown:015603_0167_0F99D54DB4D31DF8"/>
                   <head>III.</head>
                   <l>The unfeeling Baſe deny Sorrow a tear,</l>
                   <l>
@@ -6689,7 +6690,7 @@
                   <l>What Creation unites thus ſhall <hi>Clamour</hi> divide?</l>
                </lg>
                <lg n="9">
-                  <pb n="157" facs="tcp:015603_0168_0F99D54E8C6A2960"/>
+                  <pb n="157" facs="unknown:015603_0168_0F99D54E8C6A2960"/>
                   <head>IX.</head>
                   <l>Here's to all the Good Fellows, in ev'ry Degree,</l>
                   <l>Who dare do as we do, drink, think, and ſpeak free;</l>
@@ -6730,7 +6731,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="158" facs="tcp:015603_0169_0F99D553A04F7818"/>
+                  <pb n="158" facs="unknown:015603_0169_0F99D553A04F7818"/>
                   <head>III.</head>
                   <l>So fertile were the Infernal Race,</l>
                   <l>Each day new monſters prowling,</l>
@@ -6778,7 +6779,7 @@
                </lg>
             </div>
             <div n="85" type="song">
-               <pb n="159" facs="tcp:015603_0170_0F99D5553363EDF8"/>
+               <pb n="159" facs="unknown:015603_0170_0F99D5553363EDF8"/>
                <head>SONG LXXXV. CHASTITY.</head>
                <opener>Tune,—<hi>Good people I'll tell you no Rhodamontado.</hi>
                </opener>
@@ -6813,7 +6814,7 @@
                   <l>For bad Wives, he knows, make a Hell of their own.</l>
                </lg>
                <lg n="5">
-                  <pb n="160" facs="tcp:015603_0171_0F99D556C04394C8"/>
+                  <pb n="160" facs="unknown:015603_0171_0F99D556C04394C8"/>
                   <head>V.</head>
                   <l>All the World wou'd be wed, if the Clergy cou'd ſhew</l>
                   <l>Any rule in the ſervice to change <hi>I</hi> for <hi>O:</hi>
@@ -6855,7 +6856,7 @@
                   <l>No <hi>Beaume de Vie,</hi> nor <hi>Eau de Luca.</hi>
                   </l>
                   <l>
-                     <pb n="161" facs="tcp:015603_0172_0F99D55782FBA048"/>As to <hi>Rouge,</hi> the rank practice, alas! is ſo rife,</l>
+                     <pb n="161" facs="unknown:015603_0172_0F99D55782FBA048"/>As to <hi>Rouge,</hi> the rank practice, alas! is ſo rife,</l>
                   <l>The Beauty of Health it conſumes,</l>
                   <l>But Wine is the Volatile Spirit of Life,</l>
                   <l>And brightens our natural Blooms.</l>
@@ -6900,7 +6901,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="162" facs="tcp:015603_0173_0F99D55829A6D780"/>
+                  <pb n="162" facs="unknown:015603_0173_0F99D55829A6D780"/>
                   <head>V.</head>
                   <l>Wine makes—aye, what won't it; it makes right an wrong,</l>
                   <l>'Tis <hi>Love, Wit,</hi> and <hi>Truth</hi>'s Ventilator;</l>
@@ -6942,7 +6943,7 @@
                      <hi>Patroclus</hi> he garniſh'd the Diſhes.</l>
                </lg>
                <lg n="2">
-                  <pb n="163" facs="tcp:015603_0174_0F99D55A295705E8"/>
+                  <pb n="163" facs="unknown:015603_0174_0F99D55A295705E8"/>
                   <head>II.</head>
                   <l>By the Poets of old,</l>
                   <l>
@@ -6987,7 +6988,7 @@
                   <l>Our Cooks wou'd be greatly confounded.</l>
                </lg>
                <lg n="6">
-                  <pb n="164" facs="tcp:015603_0175_0F99D55A6BB4C438"/>
+                  <pb n="164" facs="unknown:015603_0175_0F99D55A6BB4C438"/>
                   <head>VI.</head>
                   <l>Come! Lads, hark-away,</l>
                   <l>Hunt the Bottle To-day,</l>
@@ -7021,7 +7022,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="165" facs="tcp:015603_0176_0F99D55B74EA8240"/>
+                  <pb n="165" facs="unknown:015603_0176_0F99D55B74EA8240"/>
                   <head>III.</head>
                   <l>It was <hi>Cacus,</hi> ſome ſay, though that's not Orthodox,</l>
                   <l>'Twas <hi>Milo</hi> of <hi>Crotos</hi> firſt knock'd down an Ox;</l>
@@ -7064,7 +7065,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="166" facs="tcp:015603_0177_0F99D55D0BE81880"/>
+                  <pb n="166" facs="unknown:015603_0177_0F99D55D0BE81880"/>
                   <head>II.</head>
                   <l>Fine Miſs at Dancing-ſchool is taught,</l>
                   <l>The Minuet to tread,</l>
@@ -7117,7 +7118,7 @@
                </lg>
             </div>
             <div n="90" type="song">
-               <pb n="167" facs="tcp:015603_0178_0F99D55D92F94108"/>
+               <pb n="167" facs="unknown:015603_0178_0F99D55D92F94108"/>
                <head>SONG XC. PREJUDICE.</head>
                <opener>Tune,—<hi>Without you will promiſe, nay, ſwear to be true.</hi>
                </opener>
@@ -7160,7 +7161,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="168" facs="tcp:015603_0179_0F99D55EEA029BB0"/>
+                  <pb n="168" facs="unknown:015603_0179_0F99D55EEA029BB0"/>
                   <head>VI.</head>
                   <l>Before that <hi>Rebellion</hi> at <hi>Culloden</hi> fled,</l>
                   <l>Pale <hi>Terror</hi> took Towns in the South;</l>
@@ -7198,7 +7199,7 @@
                </lg>
             </div>
             <div n="91" type="song">
-               <pb n="169" facs="tcp:015603_0180_0F99D55FAB1D0490"/>
+               <pb n="169" facs="unknown:015603_0180_0F99D55FAB1D0490"/>
                <head>SONG XCI. FREEDOM.</head>
                <opener>Tune, <hi>Beſſy Bell, and Mary Gray.</hi>
                </opener>
@@ -7244,7 +7245,7 @@
                   <l>The GAME ACT is a Bleſſing.</l>
                </lg>
                <lg n="4">
-                  <pb n="170" facs="tcp:015603_0181_0F99D562AA1116B8"/>
+                  <pb n="170" facs="unknown:015603_0181_0F99D562AA1116B8"/>
                   <head>IV.</head>
                   <l>Lov'd LIBERTY! celeſtial Maid!</l>
                   <l>Which way ſhall we addreſs thee?</l>
@@ -7283,7 +7284,7 @@
                </lg>
             </div>
             <div n="92" type="song">
-               <pb n="171" facs="tcp:015603_0182_0F99D5636B3D7158"/>
+               <pb n="171" facs="unknown:015603_0182_0F99D5636B3D7158"/>
                <head>SONG XCII. HONOUR.</head>
                <opener>Tune,—<hi>Confuſion to him who a Bumper denies.</hi>
                </opener>
@@ -7332,7 +7333,7 @@
                   <l>And, really, ſome <hi>Honours</hi> may want a Japan.</l>
                </lg>
                <lg n="6">
-                  <pb n="172" facs="tcp:015603_0183_0F99D5642CC55978"/>
+                  <pb n="172" facs="unknown:015603_0183_0F99D5642CC55978"/>
                   <head>VI.</head>
                   <l>To varniſh the Taſte is,—as caſes from duſt,</l>
                   <l>Each picture now glares with a tranſparent cruſt;</l>
@@ -7370,7 +7371,7 @@
                   <l>While ſcurril' <hi>Banter</hi> leer'd along,</l>
                   <l>With face buffoon, and loll'd-out tongue.</l>
                   <l>
-                     <pb n="173" facs="tcp:015603_0184_0F99D564EBBC3E48"/>
+                     <pb n="173" facs="unknown:015603_0184_0F99D564EBBC3E48"/>
                      <hi>Riot</hi> there, with mouth ſtretch'd wide,</l>
                   <l>On a Drunkard ſat aſtride;</l>
                   <l>Spangled <hi>Lewdneſs</hi> op'd the Ball,</l>
@@ -7422,7 +7423,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="174" facs="tcp:015603_0185_0F99D566CF7C85F8"/>
+                  <pb n="174" facs="unknown:015603_0185_0F99D566CF7C85F8"/>
                   <head>VI.</head>
                   <l>The ſtupid Heirs of much-muck'd Land,</l>
                   <l>With wheezing Gluttons throng'd the Strand;</l>
@@ -7463,7 +7464,7 @@
                </lg>
             </div>
             <div n="94" type="song">
-               <pb n="175" facs="tcp:015603_0186_0F99D5674E6F9E20"/>
+               <pb n="175" facs="unknown:015603_0186_0F99D5674E6F9E20"/>
                <head>SONG XCIV. POLITICS.</head>
                <opener>Tune,—<hi>'Tis a Twelvemonth age, nay, perhaps it is twain.</hi>
                </opener>
@@ -7508,7 +7509,7 @@
                   <l>When <hi>Outs</hi> become <hi>Ins,</hi> then they're wiſer than t'other.</l>
                </lg>
                <lg n="6">
-                  <pb n="176" facs="tcp:015603_0187_0F99D568039298B8"/>
+                  <pb n="176" facs="unknown:015603_0187_0F99D568039298B8"/>
                   <head>VI.</head>
                   <l>The World has, without one exception, a Rule,</l>
                   <l>The <hi>rich</hi> Man's a <hi>wiſe Man,</hi> the <hi>poor</hi> Man's a <hi>Fool;</hi>
@@ -7544,7 +7545,7 @@
                   <l>The next, knows not what to be at.</l>
                </lg>
                <lg n="2">
-                  <pb n="177" facs="tcp:015603_0188_0F99D56AAE514108"/>
+                  <pb n="177" facs="unknown:015603_0188_0F99D56AAE514108"/>
                   <head>II.</head>
                   <l>When in Love,—how he labours the prize to obtain,</l>
                   <l>If luck'ly, he draws Beauty's Lot,</l>
@@ -7592,7 +7593,7 @@
                   <l>On his Proctor, imprimis, he'll call.</l>
                </lg>
                <lg n="8">
-                  <pb n="178" facs="tcp:015603_0189_0F99D56CD6229488"/>
+                  <pb n="178" facs="unknown:015603_0189_0F99D56CD6229488"/>
                   <head>VIII.</head>
                   <l>When maudlin at night, as 'tis nightly the caſe,</l>
                   <l>How loving the Creature appears;</l>
@@ -7629,7 +7630,7 @@
                </lg>
             </div>
             <div n="96" type="song">
-               <pb n="179" facs="tcp:015603_0190_0F99D56D8F0D93A0"/>
+               <pb n="179" facs="unknown:015603_0190_0F99D56D8F0D93A0"/>
                <head>SONG XCVI. BEAUME DE VIE.</head>
                <opener>Tune,—<hi>Two Gods of great Honour.</hi>
                </opener>
@@ -7666,7 +7667,7 @@
                   <l>And feels herſelf ſuddenly freed from her fears.</l>
                </lg>
                <lg n="3">
-                  <pb n="180" facs="tcp:015603_0191_0F99D56DFA89D318"/>
+                  <pb n="180" facs="unknown:015603_0191_0F99D56DFA89D318"/>
                   <head>III.</head>
                   <l>As ſtill ſhe kept ſipping,</l>
                   <l>Her heart lightly leaping,</l>
@@ -7701,7 +7702,7 @@
                </lg>
             </div>
             <div n="97" type="song">
-               <pb n="181" facs="tcp:015603_0192_0F99D56EAA5288A0"/>
+               <pb n="181" facs="unknown:015603_0192_0F99D56EAA5288A0"/>
                <head>SONG XCVII. THE NORFOLK FARMER.</head>
                <opener>Tune,—<hi>I'm marry'd and happy, with Wonder hear this.</hi>
                </opener>
@@ -7738,7 +7739,7 @@
                   <l>Do ſo ye <hi>Crim. Cons.</hi> if ye dare.</l>
                </lg>
                <lg n="4">
-                  <pb n="182" facs="tcp:015603_0193_0F99D56F85F3DD60"/>
+                  <pb n="182" facs="unknown:015603_0193_0F99D56F85F3DD60"/>
                   <head>IV.</head>
                   <l>My Poultry is all by my good Woman bred,</l>
                   <l>My Garden gives Roots for my Health,</l>
@@ -7774,7 +7775,7 @@
                </lg>
             </div>
             <div n="98" type="song">
-               <pb n="183" facs="tcp:015603_0194_0F99D57428C42C28"/>
+               <pb n="183" facs="unknown:015603_0194_0F99D57428C42C28"/>
                <head>SONG XCVIII. THE AUCTION.</head>
                <opener>Tune,—<hi>Pho! pox on this nonſenſe, I prithee give o'er.</hi>
                </opener>
@@ -7820,7 +7821,7 @@
                   <l>They are ſuch ſort of folks other folks can't live by.</l>
                </lg>
                <lg n="6">
-                  <pb n="184" facs="tcp:015603_0195_0F99D57535491530"/>
+                  <pb n="184" facs="unknown:015603_0195_0F99D57535491530"/>
                   <head>VI.</head>
                   <l>How eaſy is Weakneſs by Wickedneſs turn'd,</l>
                   <l>Unworthineſs welcom'd, and Worthineſs ſcorn'd;</l>
@@ -7858,7 +7859,7 @@
                   <l>Prithee ring, we muſt have t'other Bottle.</l>
                </lg>
                <lg n="2">
-                  <pb n="185" facs="tcp:015603_0196_0F99D5756D2A4180"/>
+                  <pb n="185" facs="unknown:015603_0196_0F99D5756D2A4180"/>
                   <head>II.</head>
                   <l>Our Claſſic is <hi>Bacchus,</hi> his Volumes prefer,</l>
                   <l>To all that's in old <hi>Ariſtotle;</hi>
@@ -7893,7 +7894,7 @@
                   <l>Except 'tis a Short-meaſure Bottle.</l>
                </lg>
                <lg n="5">
-                  <pb n="186" facs="tcp:015603_0197_0F99D5762BAA0E08"/>
+                  <pb n="186" facs="unknown:015603_0197_0F99D5762BAA0E08"/>
                   <head>V.</head>
                   <l>Shou'd Sickneſs with ſadd'ning Captivity join,</l>
                   <l>The Ancients I'll equal in thinking;</l>
@@ -7927,7 +7928,7 @@
                   <l>All <hi>taſty,</hi> all <hi>paſty,</hi> with cauſtics of lead.</l>
                </lg>
                <lg n="3">
-                  <pb n="187" facs="tcp:015603_0198_0F99D576ECD4F590"/>
+                  <pb n="187" facs="unknown:015603_0198_0F99D576ECD4F590"/>
                   <head>III.</head>
                   <l>Thoſe laſt pleas'd the <hi>Queen,</hi> who declar'd, with a ſmile,</l>
                   <l>The <hi>Folly</hi> of <hi>Faſhion</hi> ſhou'd lead in this Iſle;</l>
@@ -7981,7 +7982,7 @@
                </lg>
             </div>
             <div n="101" type="song">
-               <pb n="188" facs="tcp:015603_0199_0F99D4C01B7651B8"/>
+               <pb n="188" facs="unknown:015603_0199_0F99D4C01B7651B8"/>
                <head>SONG CI. THE MARQUIS OF GRANBY.</head>
                <opener>Tune,—<hi>Shanbuy.</hi>
                </opener>
@@ -8020,7 +8021,7 @@
                   <l>"The trunpet of Fame ſhook the air to proclaim</l>
                   <l>"Her <hi>Granby</hi>'s beatification.</l>
                   <l>
-                     <pb n="189" facs="tcp:015603_0200_0F99D4A4A0500C88"/>"He ſhines now a Star,</l>
+                     <pb n="189" facs="unknown:015603_0200_0F99D4A4A0500C88"/>"He ſhines now a Star,</l>
                   <l>"Near the Planet of War,"</l>
                   <l>
                      <gap reason="illegible: indecipherable" extent="3 letters">
@@ -8066,7 +8067,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="190" facs="tcp:015603_0201_0F99D4A618DB5B88"/>
+                  <pb n="190" facs="unknown:015603_0201_0F99D4A618DB5B88"/>
                   <head>II.</head>
                   <l>Rail on if you pleaſe, when the Knowing-ones win,</l>
                   <l>Yet half the world ſtrives to take t'other half in;</l>
@@ -8104,7 +8105,7 @@
                   <l>From Birth unto Burial the Total's a Hum.</l>
                </lg>
                <lg n="7">
-                  <pb n="191" facs="tcp:015603_0202_0F99D4A755691C10"/>
+                  <pb n="191" facs="unknown:015603_0202_0F99D4A755691C10"/>
                   <head>VII.</head>
                   <l>The <hi>Profit</hi> of Life is out-ballanc'd by Coſt,</l>
                   <l>
@@ -8159,7 +8160,7 @@
                      </gap>re, and here we'll drink,</l>
                </lg>
                <lg n="3">
-                  <pb n="192" facs="tcp:015603_0203_0F99D4A7F44CFE08"/>
+                  <pb n="192" facs="unknown:015603_0203_0F99D4A7F44CFE08"/>
                   <head>III.</head>
                   <l>When my Face deep wrinkles ſeize,</l>
                   <l>And my Head with palſy ſhakes;</l>
@@ -8204,7 +8205,7 @@
                   <l>To excuſe, or to reſiſt,</l>
                   <l>Is High Treaſon to Love's Queen.</l>
                   <l>
-                     <pb n="193" facs="tcp:015603_0204_0F99D4A8B14B8990"/>Pouting Lips, and panting Breaſts,</l>
+                     <pb n="193" facs="unknown:015603_0204_0F99D4A8B14B8990"/>Pouting Lips, and panting Breaſts,</l>
                   <l>Preſſing, mingling, murmuring join;</l>
                   <l>Wine inſpiring Beauty's gueſts,</l>
                   <l>Pledge me, lads, 'tis <hi>Love and Wine.</hi>
@@ -8243,7 +8244,7 @@
                   <l>Like <hi>Death,</hi> looking down on their <hi>Victims,</hi> the <hi>Throng;</hi>
                   </l>
                   <l>
-                     <pb n="194" facs="tcp:015603_0205_0F99D4A9689EE530"/>With tales of their Med'cines each paper abounds,—</l>
+                     <pb n="194" facs="unknown:015603_0205_0F99D4A9689EE530"/>With tales of their Med'cines each paper abounds,—</l>
                   <l>Hunt their <hi>Noſtrums;</hi>—no! no!—they wou'd poiſon our hounds.</l>
                </lg>
                <lg n="5">
@@ -8286,7 +8287,7 @@
                </lg>
             </div>
             <div n="105" type="song">
-               <pb n="195" facs="tcp:015603_0206_0F99D4AF50FA63C8"/>
+               <pb n="195" facs="unknown:015603_0206_0F99D4AF50FA63C8"/>
                <head>SONG CV. THE MAN.</head>
                <opener>Tune,—<hi>How pleaſant the Meads were, how joyful the ſcene.</hi>
                </opener>
@@ -8326,7 +8327,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="196" facs="tcp:015603_0207_0F99D4B10DC158D8"/>
+                  <pb n="196" facs="unknown:015603_0207_0F99D4B10DC158D8"/>
                   <head>IV.</head>
                   <l>If Sticks from the Hedge of his Honour are found</l>
                   <l>In the lap of the big-belly'd poor,</l>
@@ -8365,7 +8366,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="197" facs="tcp:015603_0208_0F99D4B25C0917F0"/>
+                  <pb n="197" facs="unknown:015603_0208_0F99D4B25C0917F0"/>
                   <head>II.</head>
                   <l>The large Noſe and long one, thereby hangs a Tale,</l>
                   <l>A Tail the old Scholiaſts ſuppoſe;</l>
@@ -8409,7 +8410,7 @@
                </lg>
             </div>
             <div n="107" type="song">
-               <pb n="198" facs="tcp:015603_0209_0F99D4B26D86D0D0"/>
+               <pb n="198" facs="unknown:015603_0209_0F99D4B26D86D0D0"/>
                <head>SONG CVII. SERIOSITY.</head>
                <opener>Tune,—<hi>This cold flinty Heart it is you who have warm'd.</hi>
                </opener>
@@ -8443,7 +8444,7 @@
                   <l>What's to come may be queer, for <hi>To-morrow</hi>'s a Cheat,</l>
                </lg>
                <lg n="5">
-                  <pb n="199" facs="tcp:015603_0210_0F99D4B32E77A140"/>
+                  <pb n="199" facs="unknown:015603_0210_0F99D4B32E77A140"/>
                   <head>V.</head>
                   <l>'Tis certain that, one by one, all muſt reſign</l>
                   <l>The poſt of true pleaſure, <hi>Health, Women,</hi> and <hi>Wine.</hi>
@@ -8485,7 +8486,7 @@
                </lg>
             </div>
             <div n="108" type="song">
-               <pb n="200" facs="tcp:015603_0211_0F99D4B40EF7BDC8"/>
+               <pb n="200" facs="unknown:015603_0211_0F99D4B40EF7BDC8"/>
                <head>SONG CVIII. THE SQUABBLE.</head>
                <opener>Tune,—<hi>Puſh the Bottle about,</hi> &amp;c.</opener>
                <lg n="1">
@@ -8526,7 +8527,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="201" facs="tcp:015603_0212_0F99D4B5511B6118"/>
+                  <pb n="201" facs="unknown:015603_0212_0F99D4B5511B6118"/>
                   <head>IV.</head>
                   <l>Her Sov'reign and Spouſe haughty <hi>Juno</hi> may teize,</l>
                   <l>And bed-chamber women be rating,</l>
@@ -8564,7 +8565,7 @@
                </lg>
             </div>
             <div n="109" type="song">
-               <pb n="202" facs="tcp:015603_0213_0F99D4B6E154BAE8"/>
+               <pb n="202" facs="unknown:015603_0213_0F99D4B6E154BAE8"/>
                <head>SONG CIX. THE PORTRAIT; OR, LA, LA, LA.</head>
                <opener>Tune,—<hi>Colin and Phoebe.</hi>
                </opener>
@@ -8601,7 +8602,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="203" facs="tcp:015603_0214_0F99D4B6EE9E2888"/>
+                  <pb n="203" facs="unknown:015603_0214_0F99D4B6EE9E2888"/>
                   <head>V.</head>
                   <l>
                      <hi>Ground Ivy</hi> has crown'd me inſtead of the <hi>Bays,</hi>
@@ -8645,7 +8646,7 @@
                </lg>
             </div>
             <div n="110" type="song">
-               <pb n="204" facs="tcp:015603_0215_0F99D4B7B76EDF48"/>
+               <pb n="204" facs="unknown:015603_0215_0F99D4B7B76EDF48"/>
                <head>SONG CX. A TOAST.</head>
                <opener>Tune,—<hi>Ye Lads who approve.</hi>
                </opener>
@@ -8690,7 +8691,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="205" facs="tcp:015603_0216_0F99D4BED429E938"/>
+                  <pb n="205" facs="unknown:015603_0216_0F99D4BED429E938"/>
                   <head>V.</head>
                   <l>Theſe Common place Rhimes</l>
                   <l>Suit Common-place Times,</l>
@@ -8735,7 +8736,7 @@
                </lg>
             </div>
             <div n="111" type="song">
-               <pb n="206" facs="tcp:015603_0217_0F99D4BEDC8D76A8"/>
+               <pb n="206" facs="unknown:015603_0217_0F99D4BEDC8D76A8"/>
                <head>SONG CXI. THE WORLD.</head>
                <opener>Tune,—<hi>The Schemes of my Sex I abhor and abjure.</hi>
                </opener>
@@ -8767,7 +8768,7 @@
                   <l>Than places to get in, and puſh who puſh can.</l>
                </lg>
                <lg n="4">
-                  <pb n="207" facs="tcp:015603_0218_0F99D4C0AEA41040"/>
+                  <pb n="207" facs="unknown:015603_0218_0F99D4C0AEA41040"/>
                   <head>IV.</head>
                   <l>The ſhirtleſs untrowzer'd Philoſophers Saws,</l>
                   <l>Once obſolete Reaſon pretended were Laws;</l>
@@ -8803,7 +8804,7 @@
                   <l>'Tis, <hi>Anglice, Vanity</hi>'s bubble.</l>
                </lg>
                <lg n="2">
-                  <pb n="208" facs="tcp:015603_0219_0F99D4C1F6EA26B8"/>
+                  <pb n="208" facs="unknown:015603_0219_0F99D4C1F6EA26B8"/>
                   <head>II.</head>
                   <l>This ſcribbling, this pen-and-ink-itch is a crime,</l>
                   <l>Yet Heaven forgive each poor Sinner in Rhime,</l>
@@ -8850,7 +8851,7 @@
                </lg>
             </div>
             <div n="113" type="song">
-               <pb n="209" facs="tcp:015603_0220_0F99D4C22BF37318"/>
+               <pb n="209" facs="unknown:015603_0220_0F99D4C22BF37318"/>
                <head>SONG CXIII. SPRING.</head>
                <opener>Tune,—<hi>Come! pledge me Love,</hi> &amp;c.</opener>
                <lg n="1">
@@ -8889,7 +8890,7 @@
                   <l>And melts the Maſs to Love.</l>
                </lg>
                <lg n="6">
-                  <pb n="210" facs="tcp:015603_0221_0F99D4C46A9F3588"/>
+                  <pb n="210" facs="unknown:015603_0221_0F99D4C46A9F3588"/>
                   <head>VI.</head>
                   <l>For ſpite of Wealth, or Power's controul,</l>
                   <l>Or all the Wiſe can ſay,</l>
@@ -8929,7 +8930,7 @@
                   <l>No Wonder if this Side or that Side is mad.</l>
                </lg>
                <lg n="5">
-                  <pb n="211" facs="tcp:015603_0222_0F99D4C528BCECB0"/>
+                  <pb n="211" facs="unknown:015603_0222_0F99D4C528BCECB0"/>
                   <head>V.</head>
                   <l>For the Times, I ſome Patriot Changes propoſe,—</l>
                   <l>That our Taxes be leſs, and we wear plainer cloaths;</l>
@@ -8970,7 +8971,7 @@
                </lg>
             </div>
             <div n="115" type="song">
-               <pb n="212" facs="tcp:015603_0223_0F99D4CA8EA72CC8"/>
+               <pb n="212" facs="unknown:015603_0223_0F99D4CA8EA72CC8"/>
                <head>SONG CXV. THE PARADE.</head>
                <opener>Tune,—<hi>While others ſtrive by pompous Phraſe.</hi>
                </opener>
@@ -9001,7 +9002,7 @@
                   <l>To garniſh Grandeur's day.</l>
                </lg>
                <lg n="3">
-                  <pb n="213" facs="tcp:015603_0224_0F99D4CBCDBF7090"/>
+                  <pb n="213" facs="unknown:015603_0224_0F99D4CBCDBF7090"/>
                   <head>III.</head>
                   <l>Daughters of Dignity and Grace,</l>
                   <l>Ye high-bred Dames of haughty Race,</l>
@@ -9042,7 +9043,7 @@
                </lg>
             </div>
             <div n="116" type="song">
-               <pb n="214" facs="tcp:015603_0225_0F99D4CBEC1E1910"/>
+               <pb n="214" facs="unknown:015603_0225_0F99D4CBEC1E1910"/>
                <head>SONG CXVI. THE FRIGHT.</head>
                <opener>Tune,—<hi>Ah! Chloe! tranſported, I cry'd.</hi>
                </opener>
@@ -9081,7 +9082,7 @@
                </lg>
             </div>
             <div n="117" type="song">
-               <pb n="215" facs="tcp:015603_0226_0F99D4CCB08D7180"/>
+               <pb n="215" facs="unknown:015603_0226_0F99D4CCB08D7180"/>
                <head>SONG CXVII. TIME KILLERS.</head>
                <opener>Tune,—<hi>How fooliſh weak Women believe.</hi>
                </opener>
@@ -9119,7 +9120,7 @@
                   <l>At Night furniſh Fun for a Song.</l>
                </lg>
                <lg n="4">
-                  <pb n="216" facs="tcp:015603_0227_0F99D4CD8C1CFF78"/>
+                  <pb n="216" facs="unknown:015603_0227_0F99D4CD8C1CFF78"/>
                   <head>IV.</head>
                   <l>At Toilets how Beauties appear,</l>
                   <l>Like Fowlers they arm and take aim;</l>
@@ -9155,7 +9156,7 @@
                </lg>
             </div>
             <div n="118" type="song">
-               <pb n="217" facs="tcp:015603_0228_0F99D4CEDD8F3708"/>
+               <pb n="217" facs="unknown:015603_0228_0F99D4CEDD8F3708"/>
                <head>SONG CXVIII. THE FUNERAL.</head>
                <opener>Tune,—<hi>Come ye careleſs, come and hear me.</hi>
                </opener>
@@ -9194,7 +9195,7 @@
                   <l>Offals ALL to odious worms.</l>
                </lg>
                <lg n="4">
-                  <pb n="218" facs="tcp:015603_0229_0F99D4CF6F0819A0"/>
+                  <pb n="218" facs="unknown:015603_0229_0F99D4CF6F0819A0"/>
                   <head>IV.</head>
                   <l>Wiſe folks, weak ones, poor, and wealthy,</l>
                   <l>Tenant unremitting Graves;</l>
@@ -9229,7 +9230,7 @@
                   <l>From me up to thoſe who wou'd <hi>cobble</hi> the nation.</l>
                </lg>
                <lg n="2">
-                  <pb n="219" facs="tcp:015603_0230_0F99D4D3AC6AD1B0"/>
+                  <pb n="219" facs="unknown:015603_0230_0F99D4D3AC6AD1B0"/>
                   <head>II.</head>
                   <l>Some ſay that Old England wants <hi>heel-piecing,</hi> true,</l>
                   <l>Our Country is trod upon like an old Shoe,</l>
@@ -9273,7 +9274,7 @@
                   <l>They're taking their ſwing, wou'd their ſwing was my Strap.</l>
                </lg>
                <lg n="9">
-                  <pb n="220" facs="tcp:015603_0231_0F99D4D4E3899478"/>
+                  <pb n="220" facs="unknown:015603_0231_0F99D4D4E3899478"/>
                   <head>IX.</head>
                   <l>I begin to wax warm, ſo I'll cloſe up my ſeam,</l>
                   <l>Or elſe I cou'd hammer out ſuch a fine theme,</l>
@@ -9318,7 +9319,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="221" facs="tcp:015603_0232_0F99D4D4E969CA98"/>
+                  <pb n="221" facs="unknown:015603_0232_0F99D4D4E969CA98"/>
                   <head>IV.</head>
                   <l>The Servant who ſlily keeps ſilent will riſe,</l>
                   <l>His ears he muſt doubt, nor give faith to his eyes;</l>
@@ -9356,7 +9357,7 @@
                   <l>Thus living we love, and thus loving enjoy;</l>
                   <l>No Deceit here diſtracts, no Debauches deſtroy;</l>
                   <l>
-                     <pb n="222" facs="tcp:015603_0233_0F99D4D5B23DCD18"/>From the May-morn of Youth unto Winter's white age,</l>
+                     <pb n="222" facs="unknown:015603_0233_0F99D4D5B23DCD18"/>From the May-morn of Youth unto Winter's white age,</l>
                   <l>Hand in hand, with contentment, we ſing thro' Life's ſtage;</l>
                   <l>When Death bids us ſtop we end eaſy our Song,</l>
                   <l>And give the Gods thanks that we've liv'd well ſo long.</l>
@@ -9391,7 +9392,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="223" facs="tcp:015603_0234_0F99D4D6695C8810"/>
+                  <pb n="223" facs="unknown:015603_0234_0F99D4D6695C8810"/>
                   <head>IV.</head>
                   <l>Law and Phyſic you ſee will make ſure of the ſee,</l>
                   <l>What advice to you gratis will come;</l>
@@ -9427,7 +9428,7 @@
                </lg>
             </div>
             <div n="123" type="song">
-               <pb n="224" facs="tcp:015603_0235_0F99D4D76A61C310"/>
+               <pb n="224" facs="unknown:015603_0235_0F99D4D76A61C310"/>
                <head>SONG CXXIII. SELF.</head>
                <opener>Tune,—<hi>I met with a Maiden one day at the Fair.</hi>
                </opener>
@@ -9473,7 +9474,7 @@
                   <l>And only did things for my ſake.</l>
                </lg>
                <lg n="6">
-                  <pb n="225" facs="tcp:015603_0236_0F99D50B80F3C640"/>
+                  <pb n="225" facs="unknown:015603_0236_0F99D50B80F3C640"/>
                   <head>VI.</head>
                   <l>For his Miſtreſs in Gaiety I was maintain'd,</l>
                   <l>For me he a Madman has prov'd;</l>
@@ -9518,7 +9519,7 @@
                </lg>
             </div>
             <div n="124" type="song">
-               <pb n="226" facs="tcp:015603_0237_0F99D50CB43E34E0"/>
+               <pb n="226" facs="unknown:015603_0237_0F99D50CB43E34E0"/>
                <head>SONG CXXIV. THE POINT.</head>
                <opener>Tune,—<hi>I will tell you what, Friend.</hi>
                </opener>
@@ -9559,7 +9560,7 @@
                   <l>Ought elſe than a fanciful ſcheme?</l>
                </lg>
                <lg n="5">
-                  <pb n="227" facs="tcp:015603_0238_0F99D50E3193AA68"/>
+                  <pb n="227" facs="unknown:015603_0238_0F99D50E3193AA68"/>
                   <head>V.</head>
                   <l>Some fancy the Court,</l>
                   <l>Some fancy Field-ſport,</l>
@@ -9598,7 +9599,7 @@
                </lg>
             </div>
             <div n="125" type="song">
-               <pb n="228" facs="tcp:015603_0239_0F99D50EAADDC910"/>
+               <pb n="228" facs="unknown:015603_0239_0F99D50EAADDC910"/>
                <head>SONG CXXV. TOM O' BEDLAM.</head>
                <opener>Tune,—<hi>Joung Jockey he courted ſweet Mogg the Brunette.</hi>
                </opener>
@@ -9639,7 +9640,7 @@
                      <hi>"Expectation</hi> indeed may fill <hi>Vanity</hi>'s head,</l>
                   <l>"But poor muſt we live when by <hi>Promiſes</hi> fed.</l>
                   <l>
-                     <pb n="229" facs="tcp:015603_0240_0F99D50F696C3B98"/>"I honour the <hi>Great,</hi> who dare greatly behave,</l>
+                     <pb n="229" facs="unknown:015603_0240_0F99D50F696C3B98"/>"I honour the <hi>Great,</hi> who dare greatly behave,</l>
                   <l>"I <hi>diſſent</hi> not from <hi>Pique,</hi> nor <hi>aſſent</hi> as a <hi>Slave,</hi>
                   </l>
                   <l>"For <hi>Engliſhmen</hi> ſcorn baſe earn'd bread to receive,"</l>
@@ -9683,7 +9684,7 @@
                </lg>
             </div>
             <div n="126" type="song">
-               <pb n="230" facs="tcp:015603_0241_0F99D51081AAF4C8"/>
+               <pb n="230" facs="unknown:015603_0241_0F99D51081AAF4C8"/>
                <head>SONG CXXVI. SEMELE.</head>
                <opener>Tune,—<hi>Hang whining and pining, lay hold of your Glaſs.</hi>
                </opener>
@@ -9725,7 +9726,7 @@
                   <l>Beſtow'd on his Foundling the Gift of the Grape.</l>
                </lg>
                <lg n="6">
-                  <pb n="231" facs="tcp:015603_0242_0F99D515DB681918"/>
+                  <pb n="231" facs="unknown:015603_0242_0F99D515DB681918"/>
                   <head>VI.</head>
                   <l>Ye Love-ſick who live on the Shine of an Eye,</l>
                   <l>The Red of a Cheek, or the Tone of a Sigh;</l>
@@ -9766,7 +9767,7 @@
                </lg>
             </div>
             <div n="127" type="song">
-               <pb n="232" facs="tcp:015603_0243_0F99D5172BB7F888"/>
+               <pb n="232" facs="unknown:015603_0243_0F99D5172BB7F888"/>
                <head>SONG CXXVII. CONTENTMENT.</head>
                <opener>Tune,—<hi>Ye Nobles, who hurry thro' ev'ry gay Toil.</hi>
                </opener>
@@ -9806,7 +9807,7 @@
                   <l>And ſcorns the Deceit of Diſguiſe.</l>
                </lg>
                <lg n="6">
-                  <pb n="233" facs="tcp:015603_0244_0F99D518F29BFE60"/>
+                  <pb n="233" facs="unknown:015603_0244_0F99D518F29BFE60"/>
                   <head>VI.</head>
                   <l>All along on the Slope, by the ſide of a ſtream,</l>
                   <l>Our hours we happily paſs;</l>
@@ -9843,7 +9844,7 @@
                </lg>
             </div>
             <div n="128" type="song">
-               <pb n="234" facs="tcp:015603_0245_0F99D5192EC6BF28"/>
+               <pb n="234" facs="unknown:015603_0245_0F99D5192EC6BF28"/>
                <head>SONG CXXVIII. GIVE THE DEVIL HIS DUE.</head>
                <opener>Tune,—<hi>To take in good part the ſoft Squeeze,</hi> &amp;c.</opener>
                <lg n="1">
@@ -9887,7 +9888,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="235" facs="tcp:015603_0246_0F99D519ED20BC00"/>
+                  <pb n="235" facs="unknown:015603_0246_0F99D519ED20BC00"/>
                   <head>VI.</head>
                   <l>His torturing ſpirits around him await,</l>
                   <l>As Watchmen attend on the Conſtable's ſtate;</l>
@@ -9927,7 +9928,7 @@
                </lg>
             </div>
             <div n="129" type="song">
-               <pb n="236" facs="tcp:015603_0247_0F99D51AAB824A58"/>
+               <pb n="236" facs="unknown:015603_0247_0F99D51AAB824A58"/>
                <head>SONG CXXIX. PRESENT TASTE.</head>
                <opener>Tune,—<hi>Laſt Night, in my Dream, I beheld a brown Laſs.</hi>
                </opener>
@@ -9972,7 +9973,7 @@
                   <l>They're <hi>Knav'ry</hi> and Dunces Defence.</l>
                </lg>
                <lg n="4">
-                  <pb n="237" facs="tcp:015603_0248_0F99D51BA44E47F0"/>
+                  <pb n="237" facs="unknown:015603_0248_0F99D51BA44E47F0"/>
                   <head>IV.</head>
                   <l>
                      <hi>Engliſh</hi> might be allow'd in the rude days of yore,</l>
@@ -10013,7 +10014,7 @@
                   <l>And as to a Mimic I'm <hi>nothing</hi> at all.</l>
                </lg>
                <lg n="2">
-                  <pb n="238" facs="tcp:015603_0249_0F99D520E2D294D0"/>
+                  <pb n="238" facs="unknown:015603_0249_0F99D520E2D294D0"/>
                   <head>II.</head>
                   <l>The wrinkl'd cheek Critic, call'd <hi>'Squire Syntaxis,</hi>
                   </l>
@@ -10059,7 +10060,7 @@
                      <hi>Nobody</hi> knows <hi>nothing</hi> 'twixt Miſtreſs and Man.</l>
                </lg>
                <lg n="8">
-                  <pb n="239" facs="tcp:015603_0250_0F99D522587419F0"/>
+                  <pb n="239" facs="unknown:015603_0250_0F99D522587419F0"/>
                   <head>VIII.</head>
                   <l>The Romp too ripe grown, unleſs gather'd a Spouſe,</l>
                   <l>Will fall, the firſt ſhake, from weak Chaſtity's boughs;</l>
@@ -10107,7 +10108,7 @@
                   <l>And toaſt the firſt Toper who drank a Half-pint.</l>
                </lg>
                <lg n="2">
-                  <pb n="240" facs="tcp:015603_0251_0F99D52395798B18"/>
+                  <pb n="240" facs="unknown:015603_0251_0F99D52395798B18"/>
                   <head>II.</head>
                   <l>My Song is to <hi>Bacchus,</hi> the God of the Vine,</l>
                   <l>The Engineer Artiſt to ſpring Beauty's Mine;</l>
@@ -10154,7 +10155,7 @@
                </lg>
             </div>
             <div n="132" type="song">
-               <pb n="241" facs="tcp:015603_0252_0F99D523B4D321E0"/>
+               <pb n="241" facs="unknown:015603_0252_0F99D523B4D321E0"/>
                <head>SONG CXXXII. MEDIOCRITY.</head>
                <opener>Tune,—<hi>Attempt to be happy! but how can that be?</hi>
                </opener>
@@ -10188,7 +10189,7 @@
                   <l>Nor make new Acquaintance in haſte.</l>
                </lg>
                <lg n="5">
-                  <pb n="242" facs="tcp:015603_0253_0F99D52493BC3348"/>
+                  <pb n="242" facs="unknown:015603_0253_0F99D52493BC3348"/>
                   <head>V.</head>
                   <l>Oh! ſuffer not <hi>Intereſt, Friendſhip</hi> to wean,</l>
                   <l>Accept not <hi>Servility</hi>'s treat;</l>
@@ -10228,7 +10229,7 @@
                </lg>
             </div>
             <div n="133" type="song">
-               <pb n="244" facs="tcp:015603_0254_0F99D525293A94A8"/>
+               <pb n="244" facs="unknown:015603_0254_0F99D525293A94A8"/>
                <head>SONG CXXXIII. THE SWEETHEARTS.</head>
                <opener>Tune,—<hi>Derry Down.</hi>
                </opener>
@@ -10274,7 +10275,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="244" facs="tcp:015603_0255_0F99D52683946D78"/>
+                  <pb n="244" facs="unknown:015603_0255_0F99D52683946D78"/>
                   <head>V.</head>
                   <l>The next a Meſs John, of rank Methodiſt Taint,</l>
                   <l>Who thought like a ſinner, but look'd like a ſaint,</l>
@@ -10310,7 +10311,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="245" facs="tcp:015603_0256_0F99D52CE1EDCA80"/>
+                  <pb n="245" facs="unknown:015603_0256_0F99D52CE1EDCA80"/>
                   <head>II.</head>
                   <l>Ye <hi>Ruſtics</hi> who burſt from the arms of embrace,</l>
                   <l>To Beauty's prefer the rude joys of the chace,</l>
@@ -10353,7 +10354,7 @@
                </lg>
             </div>
             <div type="song">
-               <pb n="246" facs="tcp:015603_0257_0F99D52ED6227160"/>
+               <pb n="246" facs="unknown:015603_0257_0F99D52ED6227160"/>
                <head>SONG THE LAST; OR, EPILOGUE.</head>
                <opener>Tune,—<hi>Laura's Song in the Chaplet.</hi>
                </opener>
@@ -10393,7 +10394,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="247" facs="tcp:015603_0258_0F99D5301C797978"/>
+                  <pb n="247" facs="unknown:015603_0258_0F99D5301C797978"/>
                   <head>IV.</head>
                   <l>If Men will think, if Men will ſee,</l>
                   <l>That all this <hi>To,</hi>—or <hi>not to be,</hi>
@@ -10427,7 +10428,7 @@
       </body>
       <back>
          <div type="index_of_songs">
-            <pb n="248" facs="tcp:015603_0259_0F99D5309C2012C0"/>
+            <pb n="248" facs="unknown:015603_0259_0F99D5309C2012C0"/>
             <head>Alphabetical LIST of the SONGS.</head>
             <list>
                <head>A.</head>
@@ -10469,7 +10470,7 @@
                <item>Demirep, Page 102</item>
                <item>Dick and Doll, Page 85</item>
                <item>
-                  <pb n="249" facs="tcp:015603_0260_0F99D5312FC0C310"/>Day and Night, Page 65</item>
+                  <pb n="249" facs="unknown:015603_0260_0F99D5312FC0C310"/>Day and Night, Page 65</item>
                <item>Do the ſame, Page 140</item>
                <item>Damn'd Honeſt Fellow, Page 126</item>
                <item>Divorce, Page 14</item>
@@ -10513,7 +10514,7 @@
                <head>I.</head>
                <item>Jolly Soul, Page 63</item>
                <item>
-                  <pb n="250" facs="tcp:015603_0261_0F99D531F428B110"/>Independency, Page 32</item>
+                  <pb n="250" facs="unknown:015603_0261_0F99D531F428B110"/>Independency, Page 32</item>
                <item>Jack Tarr's Song, Page 165</item>
             </list>
             <list>
@@ -10557,7 +10558,7 @@
                <item>—of Toll, loll, loll, Page 37</item>
             </list>
             <list>
-               <pb n="251" facs="tcp:015603_0262_0F99D532EA7677D8"/>
+               <pb n="251" facs="unknown:015603_0262_0F99D532EA7677D8"/>
                <head>P.</head>
                <item>Parent, the Page 221</item>
                <item>Point, the Page 226</item>
@@ -10599,7 +10600,7 @@
                <item>Sweethearts, Page 243</item>
             </list>
             <list>
-               <pb n="252" facs="tcp:015603_0263_0F99D53836493B68"/>
+               <pb n="252" facs="unknown:015603_0263_0F99D53836493B68"/>
                <head>T.</head>
                <item>Toll, loll, loll, Page 33</item>
                <item>Toll de roll, Page 35</item>
